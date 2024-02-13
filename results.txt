@@ -1,0 +1,5002 @@
+
+ Round: 1 
+Player 1 [8C,TS,KC,9H,4S] KC High
+Player 2 [7D,2S,5D,3S,AC] AC High
+Player 2 wins!
+
+ Round: 2 
+Player 1 [5C,AD,5D,AC,9C] Two pairs[5, 14]
+Player 2 [7C,5H,8D,TD,KS] KS High
+Player 1 wins!
+
+ Round: 3 
+Player 1 [3H,7H,6S,KC,JS] KC High
+Player 2 [QH,TD,JC,2D,8S] QH High
+Player 1 wins!
+
+ Round: 4 
+Player 1 [TH,8H,5C,QS,TC] One pair[10]
+Player 2 [9H,4D,JC,KS,JS] One pair[11]
+Player 2 wins!
+
+ Round: 5 
+Player 1 [7C,5H,KC,QH,JD] KC High
+Player 2 [AS,KH,4C,AD,4S] Two pairs[14, 4]
+Player 2 wins!
+
+ Round: 6 
+Player 1 [5H,KS,9C,7D,9H] One pair[9]
+Player 2 [8D,3S,5D,5C,AH] One pair[5]
+Player 1 wins!
+
+ Round: 7 
+Player 1 [6H,4H,5C,3H,2H] Straight[#<Card:0x000000012daaf8b0 @face=2, @suit=1>, #<Card:0x000000012daaf978 @face=3, @suit=1>, #<Card:0x000000012daafb08 @face=4, @suit=1>, #<Card:0x000000012daafa40 @face=5, @suit=3>, #<Card:0x000000012daafbd0 @face=6, @suit=1>]
+Player 2 [3S,QH,5S,6S,AS] AS High
+Player 1 wins!
+
+ Round: 8 
+Player 1 [TD,8C,4H,7C,TC] One pair[10]
+Player 2 [KC,4C,3H,7S,KS] One pair[13]
+Player 2 wins!
+
+ Round: 9 
+Player 1 [7C,9C,6D,KD,3H] KD High
+Player 2 [4C,QS,QC,AC,KH] One pair[12]
+Player 2 wins!
+
+ Round: 10 
+Player 1 [JC,6S,5H,2H,2D] One pair[2]
+Player 2 [KD,9D,7C,AS,JS] AS High
+Player 1 wins!
+
+ Round: 11 
+Player 1 [AD,QH,TH,9D,8H] AD High
+Player 2 [TS,6D,3S,AS,AC] One pair[14]
+Player 2 wins!
+
+ Round: 12 
+Player 1 [2H,4S,5C,5S,TC] One pair[5]
+Player 2 [KC,JD,6C,TS,3C] KC High
+Player 1 wins!
+
+ Round: 13 
+Player 1 [QD,AS,6H,JS,2C] AS High
+Player 2 [3D,9H,KC,4H,8S] KC High
+Player 1 wins!
+
+ Round: 14 
+Player 1 [KD,8S,9S,7C,2S] KD High
+Player 2 [3S,6D,6S,4H,KC] One pair[6]
+Player 2 wins!
+
+ Round: 15 
+Player 1 [3C,8C,2D,7D,4D] 8C High
+Player 2 [9S,4S,QH,4H,JD] One pair[4]
+Player 2 wins!
+
+ Round: 16 
+Player 1 [8C,KC,7S,TC,2D] KC High
+Player 2 [TS,8H,QD,AC,5C] AC High
+Player 2 wins!
+
+ Round: 17 
+Player 1 [3D,KH,QD,6C,6S] One pair[6]
+Player 2 [AD,AS,8H,2H,QS] One pair[14]
+Player 2 wins!
+
+ Round: 18 
+Player 1 [6S,8D,4C,8S,6C] Two pairs[6, 8]
+Player 2 [QH,TC,6D,7D,9D] QH High
+Player 1 wins!
+
+ Round: 19 
+Player 1 [2S,8D,8C,4C,TS] One pair[8]
+Player 2 [9S,9D,9C,AC,3D] Three of a kind[9]
+Player 2 wins!
+
+ Round: 20 
+Player 1 [3C,QS,2S,4H,JH] QS High
+Player 2 [3D,2D,TD,8S,9H] TD High
+Player 1 wins!
+
+ Round: 21 
+Player 1 [5H,QS,8S,6D,3C] QS High
+Player 2 [8C,JD,AS,7H,7D] One pair[7]
+Player 2 wins!
+
+ Round: 22 
+Player 1 [6H,TD,9D,AS,JH] AS High
+Player 2 [6C,QC,9S,KD,JC] KD High
+Player 1 wins!
+
+ Round: 23 
+Player 1 [AH,8S,QS,4D,TH] AH High
+Player 2 [AC,TS,3C,3D,5C] One pair[3]
+Player 2 wins!
+
+ Round: 24 
+Player 1 [5S,4D,JS,3D,8H] JS High
+Player 2 [6C,TS,3S,AD,8C] AD High
+Player 2 wins!
+
+ Round: 25 
+Player 1 [6D,7C,5D,5H,3S] One pair[5]
+Player 2 [5C,JC,2H,5S,3D] One pair[5]
+Player 2 wins!
+
+ Round: 26 
+Player 1 [5H,6H,2S,KS,3D] KS High
+Player 2 [5D,JD,7H,JS,8H] One pair[11]
+Player 2 wins!
+
+ Round: 27 
+Player 1 [KH,4H,AS,JS,QS] AS High
+Player 2 [QC,TC,6D,7C,KS] KS High
+Player 1 wins!
+
+ Round: 28 
+Player 1 [3D,QS,TS,2H,JS] QS High
+Player 2 [4D,AS,9S,JC,KD] AS High
+Player 2 wins!
+
+ Round: 29 
+Player 1 [QD,5H,4D,5D,KH] One pair[5]
+Player 2 [7H,3D,JS,KD,4H] KD High
+Player 1 wins!
+
+ Round: 30 
+Player 1 [2C,9H,6H,5C,9D] One pair[9]
+Player 2 [6C,JC,2D,TH,9S] JC High
+Player 1 wins!
+
+ Round: 31 
+Player 1 [7D,6D,AS,QD,JH] AS High
+Player 2 [4D,JS,7C,QS,5C] QS High
+Player 1 wins!
+
+ Round: 32 
+Player 1 [3H,KH,QD,AD,8C] AD High
+Player 2 [8H,3S,TH,9D,5S] TH High
+Player 1 wins!
+
+ Round: 33 
+Player 1 [AH,9S,4D,9D,8S] One pair[9]
+Player 2 [4H,JS,3C,TC,8D] JS High
+Player 1 wins!
+
+ Round: 34 
+Player 1 [2C,KS,5H,QD,3S] KS High
+Player 2 [TS,9H,AH,AD,8S] One pair[14]
+Player 2 wins!
+
+ Round: 35 
+Player 1 [5C,7H,5D,KD,9H] One pair[5]
+Player 2 [4D,3D,2D,KS,AD] AD High
+Player 1 wins!
+
+ Round: 36 
+Player 1 [KS,KC,9S,6D,2C] One pair[13]
+Player 2 [QH,9D,9H,TS,TC] Two pairs[9, 10]
+Player 2 wins!
+
+ Round: 37 
+Player 1 [9C,6H,5D,QH,4D] QH High
+Player 2 [AD,6D,QC,JS,KH] AD High
+Player 2 wins!
+
+ Round: 38 
+Player 1 [9S,3H,9D,JD,5C] One pair[9]
+Player 2 [4D,9H,AS,TC,QH] AS High
+Player 1 wins!
+
+ Round: 39 
+Player 1 [2C,6D,JC,9C,3C] JC High
+Player 2 [AD,9S,KH,9D,7D] One pair[9]
+Player 2 wins!
+
+ Round: 40 
+Player 1 [KC,9C,7C,JC,JS] One pair[11]
+Player 2 [KD,3H,AS,3C,7D] One pair[3]
+Player 1 wins!
+
+ Round: 41 
+Player 1 [QD,KH,QS,2C,3S] One pair[12]
+Player 2 [8S,8H,9H,9C,JC] Two pairs[8, 9]
+Player 2 wins!
+
+ Round: 42 
+Player 1 [QH,8D,3C,KC,4C] KC High
+Player 2 [4H,6D,AD,9H,9D] One pair[9]
+Player 2 wins!
+
+ Round: 43 
+Player 1 [3S,KS,QS,7H,KH] One pair[13]
+Player 2 [7D,5H,5D,JD,AD] One pair[5]
+Player 1 wins!
+
+ Round: 44 
+Player 1 [2H,2C,6H,TH,TC] Two pairs[2, 10]
+Player 2 [7D,8D,4H,8C,AS] One pair[8]
+Player 1 wins!
+
+ Round: 45 
+Player 1 [4S,2H,AC,QC,3S] AC High
+Player 2 [6D,TH,4D,4C,KH] One pair[4]
+Player 2 wins!
+
+ Round: 46 
+Player 1 [4D,TC,KS,AS,7C] AS High
+Player 2 [3C,6D,2D,9H,6C] One pair[6]
+Player 2 wins!
+
+ Round: 47 
+Player 1 [8C,TD,5D,QS,2C] QS High
+Player 2 [7H,4C,9C,3H,9H] One pair[9]
+Player 2 wins!
+
+ Round: 48 
+Player 1 [5H,JH,TS,7S,TD] One pair[10]
+Player 2 [6H,AD,QD,8H,8S] One pair[8]
+Player 1 wins!
+
+ Round: 49 
+Player 1 [5S,AD,9C,8C,7C] AD High
+Player 2 [8D,5H,9D,8S,2S] One pair[8]
+Player 2 wins!
+
+ Round: 50 
+Player 1 [4H,KH,KS,9S,2S] One pair[13]
+Player 2 [KC,5S,AD,4S,7D] AD High
+Player 1 wins!
+
+ Round: 51 
+Player 1 [QS,9C,QD,6H,JS] One pair[12]
+Player 2 [5D,AC,8D,2S,AS] One pair[14]
+Player 2 wins!
+
+ Round: 52 
+Player 1 [KH,AC,JC,3S,9D] AC High
+Player 2 [9S,3C,9C,5S,JS] One pair[9]
+Player 2 wins!
+
+ Round: 53 
+Player 1 [AD,3C,3D,KS,3S] Three of a kind[3]
+Player 2 [5C,9C,8C,TS,4S] TS High
+Player 1 wins!
+
+ Round: 54 
+Player 1 [JH,8D,5D,6H,KD] KD High
+Player 2 [QS,QD,3D,6C,KC] One pair[12]
+Player 2 wins!
+
+ Round: 55 
+Player 1 [8S,JD,6C,3S,8C] One pair[8]
+Player 2 [TC,QC,3C,QH,JS] One pair[12]
+Player 2 wins!
+
+ Round: 56 
+Player 1 [KC,JC,8H,2S,9H] KC High
+Player 2 [9C,JH,8S,8C,9S] Two pairs[9, 8]
+Player 2 wins!
+
+ Round: 57 
+Player 1 [8S,2H,QH,4D,QC] One pair[12]
+Player 2 [9D,KC,AS,TH,3C] AS High
+Player 1 wins!
+
+ Round: 58 
+Player 1 [8S,6H,TH,7C,2H] TH High
+Player 2 [6S,3C,3H,AS,7S] One pair[3]
+Player 2 wins!
+
+ Round: 59 
+Player 1 [QH,5S,JS,4H,5H] One pair[5]
+Player 2 [TS,8H,AH,AC,JC] One pair[14]
+Player 2 wins!
+
+ Round: 60 
+Player 1 [9D,8H,2S,4S,TC] TC High
+Player 2 [JC,3C,7H,3H,5C] One pair[3]
+Player 2 wins!
+
+ Round: 61 
+Player 1 [3D,AD,3C,3S,4C] Three of a kind[3]
+Player 2 [QC,AS,5D,TH,8C] AS High
+Player 1 wins!
+
+ Round: 62 
+Player 1 [6S,9D,4C,JS,KH] KH High
+Player 2 [AH,TS,JD,8H,AD] One pair[14]
+Player 2 wins!
+
+ Round: 63 
+Player 1 [4C,6S,9D,7S,AC] AC High
+Player 2 [4D,3D,3S,TC,JD] One pair[3]
+Player 2 wins!
+
+ Round: 64 
+Player 1 [AD,7H,6H,4H,JH] AD High
+Player 2 [KC,TD,TS,7D,6S] One pair[10]
+Player 2 wins!
+
+ Round: 65 
+Player 1 [8H,JH,TC,3S,8D] One pair[8]
+Player 2 [8C,9S,2C,5C,4D] 9S High
+Player 1 wins!
+
+ Round: 66 
+Player 1 [2C,9D,KC,QH,TH] KC High
+Player 2 [QS,JC,9C,4H,TS] QS High
+Player 1 wins!
+
+ Round: 67 
+Player 1 [QS,3C,QD,8H,KH] One pair[12]
+Player 2 [4H,8D,TD,8S,AC] One pair[8]
+Player 1 wins!
+
+ Round: 68 
+Player 1 [7C,3C,TH,5S,8H] TH High
+Player 2 [8C,9C,JD,TC,KD] KD High
+Player 2 wins!
+
+ Round: 69 
+Player 1 [QC,TC,JD,TS,8C] One pair[10]
+Player 2 [3H,6H,KD,7C,TD] KD High
+Player 1 wins!
+
+ Round: 70 
+Player 1 [JH,QS,KS,9C,6D] KS High
+Player 2 [6S,AS,9H,KH,6H] One pair[6]
+Player 2 wins!
+
+ Round: 71 
+Player 1 [2H,4D,AH,2D,JH] One pair[2]
+Player 2 [6H,TD,5D,4H,JD] JD High
+Player 1 wins!
+
+ Round: 72 
+Player 1 [KD,8C,9S,JH,QD] KD High
+Player 2 [JS,2C,QS,5C,7C] QS High
+Player 1 wins!
+
+ Round: 73 
+Player 1 [4S,TC,7H,8D,2S] TC High
+Player 2 [6H,7S,9C,7C,KC] One pair[7]
+Player 2 wins!
+
+ Round: 74 
+Player 1 [8C,5D,7H,4S,TD] TD High
+Player 2 [QC,8S,JS,4H,KS] KS High
+Player 2 wins!
+
+ Round: 75 
+Player 1 [AD,8S,JH,6D,TD] AD High
+Player 2 [KD,7C,6C,2D,7D] One pair[7]
+Player 2 wins!
+
+ Round: 76 
+Player 1 [JC,6H,6S,JS,4H] Two pairs[11, 6]
+Player 2 [QH,9H,AH,4C,3C] AH High
+Player 1 wins!
+
+ Round: 77 
+Player 1 [6H,5H,AS,7C,7S] One pair[7]
+Player 2 [3D,KH,KC,5D,5C] Two pairs[13, 5]
+Player 2 wins!
+
+ Round: 78 
+Player 1 [JC,3D,TD,AS,4D] AS High
+Player 2 [6D,6S,QH,JD,KS] One pair[6]
+Player 2 wins!
+
+ Round: 79 
+Player 1 [8C,7S,8S,QH,2S] One pair[8]
+Player 2 [JD,5C,7H,AH,QD] AH High
+Player 1 wins!
+
+ Round: 80 
+Player 1 [8S,3C,6H,6C,2C] One pair[6]
+Player 2 [8D,TD,7D,4C,4D] One pair[4]
+Player 1 wins!
+
+ Round: 81 
+Player 1 [5D,QH,KH,7C,2S] KH High
+Player 2 [7H,JS,6D,QC,QD] One pair[12]
+Player 2 wins!
+
+ Round: 82 
+Player 1 [AD,6C,6S,7D,TH] One pair[6]
+Player 2 [6H,2H,8H,KH,4H] Flush
+Player 2 wins!
+
+ Round: 83 
+Player 1 [KS,JS,KD,5D,2D] One pair[13]
+Player 2 [KH,7D,9C,8C,3D] KH High
+Player 1 wins!
+
+ Round: 84 
+Player 1 [9C,6D,QD,3C,KS] KS High
+Player 2 [3S,7S,AH,JD,2D] AH High
+Player 2 wins!
+
+ Round: 85 
+Player 1 [AH,QH,AS,JC,8S] One pair[14]
+Player 2 [8H,4C,KC,TH,7D] KC High
+Player 1 wins!
+
+ Round: 86 
+Player 1 [JC,5H,TD,7C,5D] One pair[5]
+Player 2 [KD,4C,AD,8H,JS] AD High
+Player 1 wins!
+
+ Round: 87 
+Player 1 [KC,2H,AC,AH,7D] One pair[14]
+Player 2 [JH,KH,5D,7S,6D] KH High
+Player 1 wins!
+
+ Round: 88 
+Player 1 [9S,5S,9C,6H,8S] One pair[9]
+Player 2 [TD,JD,9H,6C,AC] AC High
+Player 1 wins!
+
+ Round: 89 
+Player 1 [7D,8S,6D,TS,KD] KD High
+Player 2 [7H,AC,5S,7C,5D] Two pairs[7, 5]
+Player 2 wins!
+
+ Round: 90 
+Player 1 [AH,QC,JC,4C,TC] AH High
+Player 2 [8C,2H,TS,2C,7D] One pair[2]
+Player 2 wins!
+
+ Round: 91 
+Player 1 [KD,KC,6S,3D,7D] One pair[13]
+Player 2 [2S,8S,3H,5S,5C] One pair[5]
+Player 1 wins!
+
+ Round: 92 
+Player 1 [8S,5D,8H,4C,6H] One pair[8]
+Player 2 [KC,3H,7C,5S,KD] One pair[13]
+Player 2 wins!
+
+ Round: 93 
+Player 1 [JH,8C,3D,3C,6C] One pair[3]
+Player 2 [KC,TD,7H,7C,4C] One pair[7]
+Player 2 wins!
+
+ Round: 94 
+Player 1 [JC,KC,6H,TS,QS] KC High
+Player 2 [TD,KS,8H,8C,9S] One pair[8]
+Player 2 wins!
+
+ Round: 95 
+Player 1 [6C,5S,9C,QH,7D] QH High
+Player 2 [AH,KS,KC,9S,2C] One pair[13]
+Player 2 wins!
+
+ Round: 96 
+Player 1 [4D,4S,8H,TD,9C] One pair[4]
+Player 2 [3S,7D,9D,AS,TH] AS High
+Player 1 wins!
+
+ Round: 97 
+Player 1 [6S,7D,3C,6H,5D] One pair[6]
+Player 2 [KD,2C,5C,9D,9C] One pair[9]
+Player 2 wins!
+
+ Round: 98 
+Player 1 [2H,KC,3D,AD,3H] One pair[3]
+Player 2 [QD,QS,8D,JC,4S] One pair[12]
+Player 2 wins!
+
+ Round: 99 
+Player 1 [8C,3H,9C,7C,AD] AD High
+Player 2 [5D,JC,9D,JS,AS] One pair[11]
+Player 2 wins!
+
+ Round: 100 
+Player 1 [5D,9H,5C,7H,6S] One pair[5]
+Player 2 [6C,QC,JC,QD,9S] One pair[12]
+Player 2 wins!
+
+ Round: 101 
+Player 1 [JC,QS,JH,2C,6S] One pair[11]
+Player 2 [9C,QC,3D,4S,TC] QC High
+Player 1 wins!
+
+ Round: 102 
+Player 1 [4H,5S,8D,3D,4D] One pair[4]
+Player 2 [2S,KC,2H,JS,2C] Three of a kind[2]
+Player 2 wins!
+
+ Round: 103 
+Player 1 [TD,3S,TH,KD,4D] One pair[10]
+Player 2 [7H,JH,JS,KS,AC] One pair[11]
+Player 2 wins!
+
+ Round: 104 
+Player 1 [7S,8C,9S,2D,8S] One pair[8]
+Player 2 [7D,5C,AD,9D,AS] One pair[14]
+Player 2 wins!
+
+ Round: 105 
+Player 1 [8C,7H,2S,6C,TH] TH High
+Player 2 [3H,4C,3S,8H,AC] One pair[3]
+Player 2 wins!
+
+ Round: 106 
+Player 1 [KD,5H,JC,8H,JD] One pair[11]
+Player 2 [2D,4H,TD,JH,5C] JH High
+Player 1 wins!
+
+ Round: 107 
+Player 1 [3D,AS,QH,KS,7H] AS High
+Player 2 [JD,8S,5S,6D,5H] One pair[5]
+Player 2 wins!
+
+ Round: 108 
+Player 1 [9S,6S,TC,QS,JC] QS High
+Player 2 [5C,5D,9C,TH,8C] One pair[5]
+Player 2 wins!
+
+ Round: 109 
+Player 1 [5H,3S,JH,9H,2S] JH High
+Player 2 [2C,6S,7S,AS,KS] AS High
+Player 2 wins!
+
+ Round: 110 
+Player 1 [8C,QD,JC,QS,TC] One pair[12]
+Player 2 [QC,4H,AC,KH,6C] AC High
+Player 1 wins!
+
+ Round: 111 
+Player 1 [TC,5H,7D,JH,4H] JH High
+Player 2 [2H,8D,JC,KS,4D] KS High
+Player 2 wins!
+
+ Round: 112 
+Player 1 [5S,9C,KH,KD,9H] Two pairs[9, 13]
+Player 2 [5C,TS,3D,7D,2D] TS High
+Player 1 wins!
+
+ Round: 113 
+Player 1 [5H,AS,TC,4D,8C] AS High
+Player 2 [2C,TS,9D,3H,8D] TS High
+Player 1 wins!
+
+ Round: 114 
+Player 1 [6H,8D,2D,9H,JD] JD High
+Player 2 [6C,4S,5H,5S,6D] Two pairs[6, 5]
+Player 2 wins!
+
+ Round: 115 
+Player 1 [AD,9C,JC,7D,6H] AD High
+Player 2 [9S,6D,JS,9H,3C] One pair[9]
+Player 2 wins!
+
+ Round: 116 
+Player 1 [AD,JH,TC,QS,4C] AD High
+Player 2 [5D,9S,7C,9C,AH] One pair[9]
+Player 2 wins!
+
+ Round: 117 
+Player 1 [KD,6H,2H,TH,8S] KD High
+Player 2 [QD,KS,9D,9H,AS] One pair[9]
+Player 2 wins!
+
+ Round: 118 
+Player 1 [4H,8H,8D,5H,6C] One pair[8]
+Player 2 [AH,5S,AS,AD,8S] Three of a kind[14]
+Player 2 wins!
+
+ Round: 119 
+Player 1 [QS,5D,4S,2H,TD] QS High
+Player 2 [KS,5H,AC,3H,JC] AC High
+Player 2 wins!
+
+ Round: 120 
+Player 1 [9C,7D,QD,KD,AC] AC High
+Player 2 [6D,5H,QH,6H,5S] Two pairs[6, 5]
+Player 2 wins!
+
+ Round: 121 
+Player 1 [KC,AH,QH,2H,7D] AH High
+Player 2 [QS,3H,KS,7S,JD] KS High
+Player 1 wins!
+
+ Round: 122 
+Player 1 [6C,8S,3H,6D,KS] One pair[6]
+Player 2 [QD,5D,5C,8H,TC] One pair[5]
+Player 1 wins!
+
+ Round: 123 
+Player 1 [9H,4D,4S,6S,9D] Two pairs[9, 4]
+Player 2 [KH,QC,4H,6C,JD] KH High
+Player 1 wins!
+
+ Round: 124 
+Player 1 [TD,2D,QH,4S,6H] QH High
+Player 2 [JH,KD,3C,QD,8C] KD High
+Player 2 wins!
+
+ Round: 125 
+Player 1 [4S,6H,7C,QD,9D] QD High
+Player 2 [AS,AH,6S,AD,3C] Three of a kind[14]
+Player 2 wins!
+
+ Round: 126 
+Player 1 [2C,KC,TH,6H,8D] KC High
+Player 2 [AH,5C,6D,8S,5D] One pair[5]
+Player 2 wins!
+
+ Round: 127 
+Player 1 [TD,TS,7C,AD,JC] One pair[10]
+Player 2 [QD,9H,3C,KC,7H] KC High
+Player 1 wins!
+
+ Round: 128 
+Player 1 [5D,4D,5S,8H,4H] Two pairs[5, 4]
+Player 2 [7D,3H,JD,KD,2D] KD High
+Player 1 wins!
+
+ Round: 129 
+Player 1 [JH,TD,6H,QS,4S] QS High
+Player 2 [KD,5C,8S,7D,8H] One pair[8]
+Player 2 wins!
+
+ Round: 130 
+Player 1 [AC,3D,AS,8C,TD] One pair[14]
+Player 2 [7H,KH,5D,6C,JD] KH High
+Player 1 wins!
+
+ Round: 131 
+Player 1 [9D,KS,7C,6D,QH] KS High
+Player 2 [TC,JD,KD,AS,KC] One pair[13]
+Player 2 wins!
+
+ Round: 132 
+Player 1 [JH,8S,5S,7S,7D] One pair[7]
+Player 2 [AS,2D,3D,AD,2H] Two pairs[14, 2]
+Player 2 wins!
+
+ Round: 133 
+Player 1 [2H,5D,AS,3C,QD] AS High
+Player 2 [KC,6H,9H,9S,2C] One pair[9]
+Player 2 wins!
+
+ Round: 134 
+Player 1 [9D,5D,TH,4C,JH] JH High
+Player 2 [3H,8D,TC,8H,9H] One pair[8]
+Player 2 wins!
+
+ Round: 135 
+Player 1 [6H,KD,2C,TD,2H] One pair[2]
+Player 2 [6C,9D,2D,JS,8C] JS High
+Player 1 wins!
+
+ Round: 136 
+Player 1 [KD,7S,3C,7C,AS] One pair[7]
+Player 2 [QH,TS,AD,8C,2S] AD High
+Player 1 wins!
+
+ Round: 137 
+Player 1 [QS,8H,6C,JS,4C] QS High
+Player 2 [9S,QC,AD,TD,TS] One pair[10]
+Player 2 wins!
+
+ Round: 138 
+Player 1 [2H,7C,TS,TC,8C] One pair[10]
+Player 2 [3C,9H,2D,6D,JC] JC High
+Player 1 wins!
+
+ Round: 139 
+Player 1 [TC,2H,8D,JH,KS] KS High
+Player 2 [6D,3H,TD,TH,8H] One pair[10]
+Player 2 wins!
+
+ Round: 140 
+Player 1 [9D,TD,9H,QC,5D] One pair[9]
+Player 2 [6C,8H,8C,KC,TS] One pair[8]
+Player 1 wins!
+
+ Round: 141 
+Player 1 [2H,8C,3D,AH,4D] AH High
+Player 2 [TH,TC,7D,8H,KC] One pair[10]
+Player 2 wins!
+
+ Round: 142 
+Player 1 [TS,5C,2D,8C,6S] TS High
+Player 2 [KH,AH,5H,6H,KC] One pair[13]
+Player 2 wins!
+
+ Round: 143 
+Player 1 [5S,5D,AH,TC,4C] One pair[5]
+Player 2 [JD,8D,6H,8C,6C] Two pairs[8, 6]
+Player 2 wins!
+
+ Round: 144 
+Player 1 [KC,QD,3D,8H,2D] KC High
+Player 2 [JC,9H,4H,AD,2S] AD High
+Player 2 wins!
+
+ Round: 145 
+Player 1 [TD,6S,7D,JS,KD] KD High
+Player 2 [4H,QS,2S,3S,8C] QS High
+Player 1 wins!
+
+ Round: 146 
+Player 1 [4C,9H,JH,TS,3S] JH High
+Player 2 [4H,QC,5S,9S,9C] One pair[9]
+Player 2 wins!
+
+ Round: 147 
+Player 1 [2C,KD,9H,JS,9S] One pair[9]
+Player 2 [3H,JC,TS,5D,AC] AC High
+Player 1 wins!
+
+ Round: 148 
+Player 1 [AS,2H,5D,AD,5H] Two pairs[14, 5]
+Player 2 [JC,7S,TD,JS,4C] One pair[11]
+Player 1 wins!
+
+ Round: 149 
+Player 1 [2D,4S,8H,3D,7D] 8H High
+Player 2 [2C,AD,KD,9C,TS] AD High
+Player 2 wins!
+
+ Round: 150 
+Player 1 [7H,QD,JH,5H,JS] One pair[11]
+Player 2 [AC,3D,TH,4C,8H] AC High
+Player 1 wins!
+
+ Round: 151 
+Player 1 [6D,KH,KC,QD,5C] One pair[13]
+Player 2 [AD,7C,2D,4H,AC] One pair[14]
+Player 2 wins!
+
+ Round: 152 
+Player 1 [3D,9D,TC,8S,QD] QD High
+Player 2 [2C,JC,4H,JD,AH] One pair[11]
+Player 2 wins!
+
+ Round: 153 
+Player 1 [6C,TD,5S,TC,8S] One pair[10]
+Player 2 [AH,2C,5D,AS,AC] Three of a kind[14]
+Player 2 wins!
+
+ Round: 154 
+Player 1 [TH,7S,3D,AS,6C] AS High
+Player 2 [4C,7H,7D,4H,AH] Two pairs[4, 7]
+Player 2 wins!
+
+ Round: 155 
+Player 1 [5C,2H,KS,6H,7S] KS High
+Player 2 [4H,5H,3D,3C,7H] One pair[3]
+Player 2 wins!
+
+ Round: 156 
+Player 1 [3C,9S,AC,7S,QH] AC High
+Player 2 [2H,3D,6S,3S,3H] Three of a kind[3]
+Player 2 wins!
+
+ Round: 157 
+Player 1 [2D,3H,AS,2C,6H] One pair[2]
+Player 2 [TC,JS,6S,9C,6C] One pair[6]
+Player 2 wins!
+
+ Round: 158 
+Player 1 [QH,KD,QD,6D,AC] One pair[12]
+Player 2 [6H,KH,2C,TS,8C] KH High
+Player 1 wins!
+
+ Round: 159 
+Player 1 [8H,7D,3S,9H,5D] 9H High
+Player 2 [3H,4S,QC,9S,5H] QC High
+Player 2 wins!
+
+ Round: 160 
+Player 1 [2D,9D,7H,6H,3C] 9D High
+Player 2 [8S,5H,4D,3S,4S] One pair[4]
+Player 2 wins!
+
+ Round: 161 
+Player 1 [KD,9S,4S,TC,7S] KD High
+Player 2 [QC,3S,8S,2H,7H] QC High
+Player 1 wins!
+
+ Round: 162 
+Player 1 [TC,3D,8C,3H,6C] One pair[3]
+Player 2 [2H,6H,KS,KD,4D] One pair[13]
+Player 2 wins!
+
+ Round: 163 
+Player 1 [KC,3D,9S,3H,JS] One pair[3]
+Player 2 [4S,8H,2D,6C,8S] One pair[8]
+Player 2 wins!
+
+ Round: 164 
+Player 1 [6H,QS,6C,TC,QD] Two pairs[6, 12]
+Player 2 [9H,7D,7C,5H,4D] One pair[7]
+Player 1 wins!
+
+ Round: 165 
+Player 1 [TD,9D,8D,6S,6C] One pair[6]
+Player 2 [TC,5D,TS,JS,8H] One pair[10]
+Player 2 wins!
+
+ Round: 166 
+Player 1 [4H,KC,JD,9H,TC] KC High
+Player 2 [2C,6S,5H,8H,AS] AS High
+Player 2 wins!
+
+ Round: 167 
+Player 1 [JS,9C,5C,6S,9D] One pair[9]
+Player 2 [JD,8H,KC,4C,6D] KC High
+Player 1 wins!
+
+ Round: 168 
+Player 1 [4D,8D,8S,6C,7C] One pair[8]
+Player 2 [6H,7H,8H,5C,KC] KC High
+Player 1 wins!
+
+ Round: 169 
+Player 1 [TC,3D,JC,6D,KS] KS High
+Player 2 [9S,6H,7S,9C,2C] One pair[9]
+Player 2 wins!
+
+ Round: 170 
+Player 1 [6C,3S,KD,5H,TS] KD High
+Player 2 [7D,9H,9S,6H,KH] One pair[9]
+Player 2 wins!
+
+ Round: 171 
+Player 1 [3D,QD,4C,6H,TS] QD High
+Player 2 [AC,3S,5C,2H,KD] AC High
+Player 2 wins!
+
+ Round: 172 
+Player 1 [4C,AS,JS,9S,7C] AS High
+Player 2 [TS,7H,9H,JC,KS] KS High
+Player 1 wins!
+
+ Round: 173 
+Player 1 [4H,8C,JD,3H,6H] JD High
+Player 2 [AD,9S,4S,5S,KS] AD High
+Player 2 wins!
+
+ Round: 174 
+Player 1 [4C,2C,7D,3D,AS] AS High
+Player 2 [9C,2S,QS,KC,6C] KC High
+Player 1 wins!
+
+ Round: 175 
+Player 1 [8S,5H,3D,2S,AC] AC High
+Player 2 [9D,6S,3S,4D,TD] TD High
+Player 1 wins!
+
+ Round: 176 
+Player 1 [QD,TH,7S,TS,3D] One pair[10]
+Player 2 [AC,7H,6C,5D,QC] AC High
+Player 1 wins!
+
+ Round: 177 
+Player 1 [TC,QD,AD,9C,QS] One pair[12]
+Player 2 [5C,8D,KD,3D,3C] One pair[3]
+Player 1 wins!
+
+ Round: 178 
+Player 1 [9D,8H,AS,3S,7C] AS High
+Player 2 [8S,JD,2D,8D,KC] One pair[8]
+Player 2 wins!
+
+ Round: 179 
+Player 1 [4C,TH,AC,QH,JS] AC High
+Player 2 [8D,7D,7S,9C,KH] One pair[7]
+Player 2 wins!
+
+ Round: 180 
+Player 1 [9D,8D,4C,JH,2C] JH High
+Player 2 [2S,QD,KD,TS,4H] KD High
+Player 2 wins!
+
+ Round: 181 
+Player 1 [4D,6D,5D,2D,JH] JH High
+Player 2 [3S,8S,3H,TC,KH] One pair[3]
+Player 2 wins!
+
+ Round: 182 
+Player 1 [AD,4D,2C,QS,8C] AD High
+Player 2 [KD,JH,JD,AH,5C] One pair[11]
+Player 2 wins!
+
+ Round: 183 
+Player 1 [5C,6C,5H,2H,JH] One pair[5]
+Player 2 [4H,KS,7C,TC,3H] KS High
+Player 1 wins!
+
+ Round: 184 
+Player 1 [3C,4C,QC,5D,JH] QC High
+Player 2 [9C,QD,KH,8D,TC] KH High
+Player 2 wins!
+
+ Round: 185 
+Player 1 [3H,9C,JS,7H,QH] QH High
+Player 2 [AS,7C,9H,5H,JC] AS High
+Player 2 wins!
+
+ Round: 186 
+Player 1 [2D,5S,QD,4S,3C] QD High
+Player 2 [KC,6S,6C,5C,4C] One pair[6]
+Player 2 wins!
+
+ Round: 187 
+Player 1 [5D,KH,2D,TS,8S] KH High
+Player 2 [9C,AS,9S,7C,4C] One pair[9]
+Player 2 wins!
+
+ Round: 188 
+Player 1 [7C,AH,8C,8D,5S] One pair[8]
+Player 2 [KD,QH,QS,JH,2C] One pair[12]
+Player 2 wins!
+
+ Round: 189 
+Player 1 [8C,9D,AH,2H,AC] One pair[14]
+Player 2 [QC,5S,8H,7H,2C] QC High
+Player 1 wins!
+
+ Round: 190 
+Player 1 [QD,9H,5S,QS,QC] Three of a kind[12]
+Player 2 [9C,5H,JC,TH,4H] JC High
+Player 1 wins!
+
+ Round: 191 
+Player 1 [6C,6S,3H,5H,3S] Two pairs[6, 3]
+Player 2 [6H,KS,8D,AC,7S] AC High
+Player 1 wins!
+
+ Round: 192 
+Player 1 [AC,QH,7H,8C,4S] AC High
+Player 2 [KC,6C,3D,3S,TC] One pair[3]
+Player 2 wins!
+
+ Round: 193 
+Player 1 [9D,3D,JS,TH,AC] AC High
+Player 2 [5H,3H,8S,3S,TC] One pair[3]
+Player 2 wins!
+
+ Round: 194 
+Player 1 [QD,KH,JS,KS,9S] One pair[13]
+Player 2 [QC,8D,AH,3C,AC] One pair[14]
+Player 2 wins!
+
+ Round: 195 
+Player 1 [5H,6C,KH,3S,9S] KH High
+Player 2 [JH,2D,QD,AS,8C] AS High
+Player 2 wins!
+
+ Round: 196 
+Player 1 [6C,4D,7S,7H,5S] One pair[7]
+Player 2 [JC,6S,9H,4H,JH] One pair[11]
+Player 2 wins!
+
+ Round: 197 
+Player 1 [AH,5S,6H,9S,AD] One pair[14]
+Player 2 [3S,TH,2H,9D,8C] TH High
+Player 1 wins!
+
+ Round: 198 
+Player 1 [4C,8D,9H,7C,QC] QC High
+Player 2 [AD,4S,9C,KC,5S] AD High
+Player 2 wins!
+
+ Round: 199 
+Player 1 [9D,6H,4D,TC,4C] One pair[4]
+Player 2 [JH,2S,5D,3S,AS] AS High
+Player 1 wins!
+
+ Round: 200 
+Player 1 [2H,6C,7C,KH,5C] KH High
+Player 2 [AD,QS,TH,JD,8S] AD High
+Player 2 wins!
+
+ Round: 201 
+Player 1 [3S,4S,7S,AH,AS] One pair[14]
+Player 2 [KC,JS,2S,AD,TH] AD High
+Player 1 wins!
+
+ Round: 202 
+Player 1 [JS,KC,2S,7D,8C] KC High
+Player 2 [5C,9C,TS,5H,9D] Two pairs[5, 9]
+Player 2 wins!
+
+ Round: 203 
+Player 1 [7S,9S,4D,TD,JH] JH High
+Player 2 [JS,KH,6H,5D,2C] KH High
+Player 2 wins!
+
+ Round: 204 
+Player 1 [JD,JS,JC,TH,2D] Three of a kind[11]
+Player 2 [3D,QD,8C,AC,5H] AC High
+Player 1 wins!
+
+ Round: 205 
+Player 1 [7S,KH,5S,9D,5D] One pair[5]
+Player 2 [TD,4S,6H,3C,2D] TD High
+Player 1 wins!
+
+ Round: 206 
+Player 1 [4S,5D,AC,8D,4D] One pair[4]
+Player 2 [7C,AD,AS,AH,9C] Three of a kind[14]
+Player 2 wins!
+
+ Round: 207 
+Player 1 [6S,TH,TS,KS,2C] One pair[10]
+Player 2 [QC,AH,AS,3C,4S] One pair[14]
+Player 2 wins!
+
+ Round: 208 
+Player 1 [2H,8C,3S,JC,5C] JC High
+Player 2 [7C,3H,3C,KH,JH] One pair[3]
+Player 2 wins!
+
+ Round: 209 
+Player 1 [7S,3H,JC,5S,6H] JC High
+Player 2 [4C,2S,4D,KC,7H] One pair[4]
+Player 2 wins!
+
+ Round: 210 
+Player 1 [4D,7C,4H,9S,8S] One pair[4]
+Player 2 [6S,AD,TC,6C,JC] One pair[6]
+Player 2 wins!
+
+ Round: 211 
+Player 1 [KH,QS,3S,TC,4C] KH High
+Player 2 [8H,8S,AC,3C,TS] One pair[8]
+Player 2 wins!
+
+ Round: 212 
+Player 1 [QD,QS,TH,3C,TS] Two pairs[12, 10]
+Player 2 [7H,7D,AH,TD,JC] One pair[7]
+Player 1 wins!
+
+ Round: 213 
+Player 1 [TD,JD,QC,4D,9S] QC High
+Player 2 [7S,TS,AD,7D,AC] Two pairs[7, 14]
+Player 2 wins!
+
+ Round: 214 
+Player 1 [AH,7H,4S,6D,7C] One pair[7]
+Player 2 [2H,9D,KS,JC,TD] KS High
+Player 1 wins!
+
+ Round: 215 
+Player 1 [7C,AH,JD,4H,6D] AH High
+Player 2 [QS,TS,2H,2C,5C] One pair[2]
+Player 2 wins!
+
+ Round: 216 
+Player 1 [TC,KC,8C,9S,4C] KC High
+Player 2 [JS,3C,JC,6S,AH] One pair[11]
+Player 2 wins!
+
+ Round: 217 
+Player 1 [AS,7D,QC,3D,5S] AS High
+Player 2 [JC,JD,9D,TD,KH] One pair[11]
+Player 2 wins!
+
+ Round: 218 
+Player 1 [TH,3C,2S,6H,AH] AH High
+Player 2 [AC,5H,5C,7S,8H] One pair[5]
+Player 2 wins!
+
+ Round: 219 
+Player 1 [QC,2D,AC,QD,2S] Two pairs[12, 2]
+Player 2 [3S,JD,QS,6S,8H] QS High
+Player 1 wins!
+
+ Round: 220 
+Player 1 [KC,4H,3C,9D,JS] KC High
+Player 2 [6H,3S,8S,AS,8C] One pair[8]
+Player 2 wins!
+
+ Round: 221 
+Player 1 [7H,KC,7D,JD,2H] One pair[7]
+Player 2 [JC,QH,5S,3H,QS] One pair[12]
+Player 2 wins!
+
+ Round: 222 
+Player 1 [9H,TD,3S,8H,7S] TD High
+Player 2 [AC,5C,6C,AH,7C] One pair[14]
+Player 2 wins!
+
+ Round: 223 
+Player 1 [8D,9H,AH,JD,TD] AH High
+Player 2 [QS,7D,3S,9C,8S] QS High
+Player 1 wins!
+
+ Round: 224 
+Player 1 [AH,QH,3C,JD,KC] AH High
+Player 2 [4S,5S,5D,TD,KS] One pair[5]
+Player 2 wins!
+
+ Round: 225 
+Player 1 [9H,7H,6S,JH,TH] JH High
+Player 2 [4C,7C,AD,5C,2D] AD High
+Player 2 wins!
+
+ Round: 226 
+Player 1 [7C,KD,5S,TC,9D] KD High
+Player 2 [6S,6C,5D,2S,TH] One pair[6]
+Player 2 wins!
+
+ Round: 227 
+Player 1 [KC,9H,8D,5H,7H] KC High
+Player 2 [4H,QC,3D,7C,AS] AS High
+Player 2 wins!
+
+ Round: 228 
+Player 1 [6S,8S,QC,TD,4S] QC High
+Player 2 [5C,TH,QS,QD,2S] One pair[12]
+Player 2 wins!
+
+ Round: 229 
+Player 1 [8S,5H,TH,QC,9H] QC High
+Player 2 [6S,KC,7D,7C,5C] One pair[7]
+Player 2 wins!
+
+ Round: 230 
+Player 1 [7H,KD,AH,4D,KH] One pair[13]
+Player 2 [5C,4S,2D,KC,QH] KC High
+Player 1 wins!
+
+ Round: 231 
+Player 1 [6S,2C,TD,JC,AS] AS High
+Player 2 [4D,6C,8C,4H,5S] One pair[4]
+Player 2 wins!
+
+ Round: 232 
+Player 1 [JC,TC,JD,5S,6S] One pair[11]
+Player 2 [8D,AS,9D,AD,3S] One pair[14]
+Player 2 wins!
+
+ Round: 233 
+Player 1 [6D,6H,5D,5S,TC] Two pairs[6, 5]
+Player 2 [3D,7D,QS,9D,QD] One pair[12]
+Player 1 wins!
+
+ Round: 234 
+Player 1 [4S,6C,8S,3S,7S] 8S High
+Player 2 [AD,KS,2D,7D,7C] One pair[7]
+Player 2 wins!
+
+ Round: 235 
+Player 1 [KC,QH,JC,AC,QD] One pair[12]
+Player 2 [5D,8D,QS,7H,7D] One pair[7]
+Player 1 wins!
+
+ Round: 236 
+Player 1 [JS,AH,8S,5H,3D] AH High
+Player 2 [TD,3H,4S,6C,JH] JH High
+Player 1 wins!
+
+ Round: 237 
+Player 1 [4S,QS,7D,AS,9H] AS High
+Player 2 [JS,KS,6D,TC,5C] KS High
+Player 1 wins!
+
+ Round: 238 
+Player 1 [2D,5C,6H,TC,4D] TC High
+Player 2 [QH,3D,9H,8S,6C] QH High
+Player 2 wins!
+
+ Round: 239 
+Player 1 [6D,7H,TC,TH,5S] One pair[10]
+Player 2 [JD,5C,9C,KS,KD] One pair[13]
+Player 2 wins!
+
+ Round: 240 
+Player 1 [8D,TD,QH,6S,4S] QH High
+Player 2 [6C,8S,KC,5C,TC] KC High
+Player 2 wins!
+
+ Round: 241 
+Player 1 [5S,3D,KS,AC,4S] AC High
+Player 2 [7D,QD,4C,TH,2S] QD High
+Player 1 wins!
+
+ Round: 242 
+Player 1 [TS,8H,9S,6S,7S] Straight[#<Card:0x000000012da9c1e8 @face=6, @suit=0>, #<Card:0x000000012da9c120 @face=7, @suit=0>, #<Card:0x000000012da9c378 @face=8, @suit=1>, #<Card:0x000000012da9c2b0 @face=9, @suit=0>, #<Card:0x000000012da9c440 @face=10, @suit=0>]
+Player 2 [QH,3C,AH,7H,8C] AH High
+Player 1 wins!
+
+ Round: 243 
+Player 1 [4C,8C,TS,JS,QC] QC High
+Player 2 [3D,7D,5D,7S,JH] One pair[7]
+Player 2 wins!
+
+ Round: 244 
+Player 1 [8S,7S,9D,QC,AC] AC High
+Player 2 [7C,6D,2H,JH,KC] KC High
+Player 1 wins!
+
+ Round: 245 
+Player 1 [JS,KD,3C,6S,4S] KD High
+Player 2 [7C,AH,QC,KS,5H] AH High
+Player 2 wins!
+
+ Round: 246 
+Player 1 [KS,6S,4H,JD,QS] KS High
+Player 2 [TC,8H,KC,6H,AS] AS High
+Player 2 wins!
+
+ Round: 247 
+Player 1 [KH,7C,TC,6S,TD] One pair[10]
+Player 2 [JC,5C,7D,AH,3S] AH High
+Player 1 wins!
+
+ Round: 248 
+Player 1 [3H,4C,4H,TC,TH] Two pairs[4, 10]
+Player 2 [6S,7H,6D,9C,QH] One pair[6]
+Player 1 wins!
+
+ Round: 249 
+Player 1 [7D,5H,4S,8C,JS] JS High
+Player 2 [4D,3D,8S,QH,KC] KC High
+Player 2 wins!
+
+ Round: 250 
+Player 1 [3H,6S,AD,7H,3S] One pair[3]
+Player 2 [QC,8S,4S,7S,JS] QC High
+Player 1 wins!
+
+ Round: 251 
+Player 1 [3S,JD,KH,TH,6H] KH High
+Player 2 [QS,9C,6C,2D,QD] One pair[12]
+Player 2 wins!
+
+ Round: 252 
+Player 1 [4S,QH,4D,5H,KC] One pair[4]
+Player 2 [7D,6D,8D,TH,5S] TH High
+Player 1 wins!
+
+ Round: 253 
+Player 1 [TD,AD,6S,7H,KD] AD High
+Player 2 [KH,9H,5S,KC,JC] One pair[13]
+Player 2 wins!
+
+ Round: 254 
+Player 1 [3H,QC,AS,TS,4S] AS High
+Player 2 [QD,KS,9C,7S,KC] One pair[13]
+Player 2 wins!
+
+ Round: 255 
+Player 1 [TS,6S,QC,6C,TH] Two pairs[10, 6]
+Player 2 [TC,9D,5C,5D,KD] One pair[5]
+Player 1 wins!
+
+ Round: 256 
+Player 1 [JS,3S,4H,KD,4C] One pair[4]
+Player 2 [QD,6D,9S,JC,9D] One pair[9]
+Player 2 wins!
+
+ Round: 257 
+Player 1 [8S,JS,6D,4H,JH] One pair[11]
+Player 2 [6H,6S,6C,KS,KH] KH High
+Player 1 wins!
+
+ Round: 258 
+Player 1 [AC,7D,5D,TC,9S] AC High
+Player 2 [KH,6S,QD,6H,AS] One pair[6]
+Player 2 wins!
+
+ Round: 259 
+Player 1 [AS,7H,6D,QH,8D] AS High
+Player 2 [TH,2S,KH,5C,5H] One pair[5]
+Player 2 wins!
+
+ Round: 260 
+Player 1 [4C,7C,3D,QC,TC] QC High
+Player 2 [4S,KH,8C,2D,JS] KH High
+Player 2 wins!
+
+ Round: 261 
+Player 1 [6H,5D,7S,5H,9C] One pair[5]
+Player 2 [9H,JH,8S,TH,7H] Straight[#<Card:0x000000012c8268d8 @face=7, @suit=1>, #<Card:0x000000012c826a68 @face=8, @suit=0>, #<Card:0x000000012c826bf8 @face=9, @suit=1>, #<Card:0x000000012c8269a0 @face=10, @suit=1>, #<Card:0x000000012c826b30 @face=11, @suit=1>]
+Player 2 wins!
+
+ Round: 262 
+Player 1 [AS,JS,2S,QD,KH] AS High
+Player 2 [8H,4S,AC,8D,8S] Three of a kind[8]
+Player 2 wins!
+
+ Round: 263 
+Player 1 [3H,4C,TD,KD,8C] KD High
+Player 2 [JC,5C,QS,2D,JD] One pair[11]
+Player 2 wins!
+
+ Round: 264 
+Player 1 [TS,7D,5D,6C,2C] TS High
+Player 2 [QS,2H,3C,AH,KS] AH High
+Player 2 wins!
+
+ Round: 265 
+Player 1 [4S,7C,9C,7D,JH] One pair[7]
+Player 2 [6C,5C,8H,9D,QD] QD High
+Player 1 wins!
+
+ Round: 266 
+Player 1 [2S,TD,7S,6D,9C] TD High
+Player 2 [9S,QS,KH,QH,5C] One pair[12]
+Player 2 wins!
+
+ Round: 267 
+Player 1 [JC,6S,9C,QH,JH] One pair[11]
+Player 2 [8D,7S,JS,KH,2H] KH High
+Player 1 wins!
+
+ Round: 268 
+Player 1 [8D,5H,TH,KC,4D] KC High
+Player 2 [4S,3S,6S,3D,QS] One pair[3]
+Player 2 wins!
+
+ Round: 269 
+Player 1 [2D,JD,4C,TD,7C] JD High
+Player 2 [6D,TH,7S,JC,AH] AH High
+Player 2 wins!
+
+ Round: 270 
+Player 1 [QS,7S,4C,TH,9D] QS High
+Player 2 [TS,AD,4D,3H,6H] AD High
+Player 2 wins!
+
+ Round: 271 
+Player 1 [2D,3H,7D,JD,3D] One pair[3]
+Player 2 [AS,2S,9C,QC,8S] AS High
+Player 1 wins!
+
+ Round: 272 
+Player 1 [4H,9H,9C,2C,7S] One pair[9]
+Player 2 [JH,KD,5C,5D,6H] One pair[5]
+Player 1 wins!
+
+ Round: 273 
+Player 1 [TC,9H,8H,JC,3C] JC High
+Player 2 [9S,8D,KS,AD,KC] One pair[13]
+Player 2 wins!
+
+ Round: 274 
+Player 1 [TS,5H,JD,QS,QH] One pair[12]
+Player 2 [QC,8D,5D,KH,AH] AH High
+Player 1 wins!
+
+ Round: 275 
+Player 1 [5D,AS,8S,6S,4C] AS High
+Player 2 [AH,QC,QD,TH,7H] One pair[12]
+Player 2 wins!
+
+ Round: 276 
+Player 1 [3H,4H,7D,6S,4S] One pair[4]
+Player 2 [9H,AS,8H,JS,9D] One pair[9]
+Player 2 wins!
+
+ Round: 277 
+Player 1 [JD,8C,2C,9D,7D] JD High
+Player 2 [5H,5S,9S,JC,KD] One pair[5]
+Player 2 wins!
+
+ Round: 278 
+Player 1 [KD,9C,4S,QD,AH] AH High
+Player 2 [7C,AD,9D,AC,TD] One pair[14]
+Player 2 wins!
+
+ Round: 279 
+Player 1 [6S,4H,4S,9C,8D] One pair[4]
+Player 2 [KS,TC,9D,JH,7C] KS High
+Player 1 wins!
+
+ Round: 280 
+Player 1 [5S,JC,5H,4S,QH] One pair[5]
+Player 2 [AC,2C,JS,2S,9S] One pair[2]
+Player 1 wins!
+
+ Round: 281 
+Player 1 [8C,5H,AS,QD,AD] One pair[14]
+Player 2 [5C,7D,8S,QC,TD] QC High
+Player 1 wins!
+
+ Round: 282 
+Player 1 [JC,4C,8D,5C,KH] KH High
+Player 2 [QS,4D,6H,2H,2C] One pair[2]
+Player 2 wins!
+
+ Round: 283 
+Player 1 [TH,4S,2D,KC,3H] KC High
+Player 2 [QD,AC,7H,AD,9D] One pair[14]
+Player 2 wins!
+
+ Round: 284 
+Player 1 [KH,QD,AS,8H,TH] AS High
+Player 2 [KC,8D,7S,QH,8C] One pair[8]
+Player 2 wins!
+
+ Round: 285 
+Player 1 [JC,6C,7D,8C,KH] KH High
+Player 2 [AD,QS,2H,6S,2D] One pair[2]
+Player 2 wins!
+
+ Round: 286 
+Player 1 [JC,KH,2D,7D,JS] One pair[11]
+Player 2 [QC,5H,4C,5D,AD] One pair[5]
+Player 1 wins!
+
+ Round: 287 
+Player 1 [TS,3S,AD,4S,TD] One pair[10]
+Player 2 [2D,TH,6S,9H,JH] JH High
+Player 1 wins!
+
+ Round: 288 
+Player 1 [9H,2D,QS,2C,4S] One pair[2]
+Player 2 [3D,KH,AS,AC,9D] One pair[14]
+Player 2 wins!
+
+ Round: 289 
+Player 1 [KH,6S,8H,4S,KD] One pair[13]
+Player 2 [7D,9D,TS,QD,QC] One pair[12]
+Player 1 wins!
+
+ Round: 290 
+Player 1 [JH,5H,AH,KS,AS] One pair[14]
+Player 2 [AD,JC,QC,5S,KH] AD High
+Player 1 wins!
+
+ Round: 291 
+Player 1 [5D,7D,6D,KS,KD] One pair[13]
+Player 2 [3D,7C,4D,JD,3S] One pair[3]
+Player 1 wins!
+
+ Round: 292 
+Player 1 [AC,JS,8D,5H,9C] AC High
+Player 2 [3H,4H,4D,TS,2C] One pair[4]
+Player 2 wins!
+
+ Round: 293 
+Player 1 [6H,KS,KH,9D,7C] One pair[13]
+Player 2 [2S,6S,8S,2H,3D] One pair[2]
+Player 1 wins!
+
+ Round: 294 
+Player 1 [6H,AC,JS,7S,3S] AC High
+Player 2 [TD,8H,3H,4H,TH] One pair[10]
+Player 2 wins!
+
+ Round: 295 
+Player 1 [9H,TC,QC,KC,5C] KC High
+Player 2 [KS,6H,4H,AC,8S] AC High
+Player 2 wins!
+
+ Round: 296 
+Player 1 [TC,7D,QH,4S,JC] QH High
+Player 2 [TS,6D,6C,AC,KH] One pair[6]
+Player 2 wins!
+
+ Round: 297 
+Player 1 [QH,7D,7C,JH,QS] Two pairs[12, 7]
+Player 2 [QD,TH,3H,5D,KS] KS High
+Player 1 wins!
+
+ Round: 298 
+Player 1 [3D,5S,8D,JS,4C] JS High
+Player 2 [2C,KS,7H,9C,4H] KS High
+Player 2 wins!
+
+ Round: 299 
+Player 1 [5H,8S,4H,TD,2C] TD High
+Player 2 [3S,QD,QC,3H,KC] Two pairs[3, 12]
+Player 2 wins!
+
+ Round: 300 
+Player 1 [QC,JS,KD,9C,AD] AD High
+Player 2 [5S,9D,7D,7H,TS] One pair[7]
+Player 2 wins!
+
+ Round: 301 
+Player 1 [8C,JC,KH,7C,7S] One pair[7]
+Player 2 [6C,TS,2C,QD,TH] One pair[10]
+Player 2 wins!
+
+ Round: 302 
+Player 1 [5S,9D,TH,3C,7S] TH High
+Player 2 [QH,8S,9C,2H,5H] QH High
+Player 2 wins!
+
+ Round: 303 
+Player 1 [5D,9H,6H,2S,JS] JS High
+Player 2 [KH,3H,7C,2H,5S] KH High
+Player 2 wins!
+
+ Round: 304 
+Player 1 [JD,5D,5S,2C,TC] One pair[5]
+Player 2 [2S,6S,6C,3C,8S] One pair[6]
+Player 2 wins!
+
+ Round: 305 
+Player 1 [4D,KH,8H,4H,2D] One pair[4]
+Player 2 [KS,3H,5C,2S,9H] KS High
+Player 1 wins!
+
+ Round: 306 
+Player 1 [3S,2D,TD,7H,8S] TD High
+Player 2 [6H,JD,KC,9C,8D] KC High
+Player 2 wins!
+
+ Round: 307 
+Player 1 [6S,QD,JH,7C,9H] QD High
+Player 2 [5H,8S,8H,TH,TD] Two pairs[8, 10]
+Player 2 wins!
+
+ Round: 308 
+Player 1 [QS,7S,TD,7D,TS] Two pairs[7, 10]
+Player 2 [JC,KD,7C,3C,2C] KD High
+Player 1 wins!
+
+ Round: 309 
+Player 1 [3C,JD,8S,4H,2D] JD High
+Player 2 [2S,TD,AS,4D,AC] One pair[14]
+Player 2 wins!
+
+ Round: 310 
+Player 1 [AH,KS,6C,4C,4S] One pair[4]
+Player 2 [7D,8C,9H,6H,AS] AS High
+Player 1 wins!
+
+ Round: 311 
+Player 1 [5S,3C,9S,2C,QS] QS High
+Player 2 [KD,4D,4S,AC,5D] One pair[4]
+Player 2 wins!
+
+ Round: 312 
+Player 1 [2D,TS,2C,JS,KH] One pair[2]
+Player 2 [QH,5D,8C,AS,KC] AS High
+Player 1 wins!
+
+ Round: 313 
+Player 1 [KD,3H,6C,TH,8S] KD High
+Player 2 [7S,KH,6H,9S,AC] AC High
+Player 2 wins!
+
+ Round: 314 
+Player 1 [6H,7S,6C,QS,AH] One pair[6]
+Player 2 [2S,2H,4H,5D,5H] Two pairs[2, 5]
+Player 2 wins!
+
+ Round: 315 
+Player 1 [5H,JC,QD,2C,2S] One pair[2]
+Player 2 [JD,AS,QC,6S,7D] AS High
+Player 1 wins!
+
+ Round: 316 
+Player 1 [6C,TC,AS,KD,8H] AS High
+Player 2 [9D,2C,7D,JH,9S] One pair[9]
+Player 2 wins!
+
+ Round: 317 
+Player 1 [2H,4C,6C,AH,8S] AH High
+Player 2 [TD,3H,TH,7C,TS] Three of a kind[10]
+Player 2 wins!
+
+ Round: 318 
+Player 1 [KD,4S,TS,6C,QH] KD High
+Player 2 [8D,9D,9C,AH,7D] One pair[9]
+Player 2 wins!
+
+ Round: 319 
+Player 1 [6D,JS,5C,QD,QC] One pair[12]
+Player 2 [9C,5D,8C,2H,KD] KD High
+Player 1 wins!
+
+ Round: 320 
+Player 1 [3C,QH,JH,AD,6S] AD High
+Player 2 [AH,KC,8S,6D,6H] One pair[6]
+Player 2 wins!
+
+ Round: 321 
+Player 1 [3D,7C,4C,7S,5S] One pair[7]
+Player 2 [3S,6S,5H,JC,3C] One pair[3]
+Player 1 wins!
+
+ Round: 322 
+Player 1 [QH,7C,5H,3C,3S] One pair[3]
+Player 2 [8C,TS,4C,KD,9C] KD High
+Player 1 wins!
+
+ Round: 323 
+Player 1 [QD,3S,7S,5H,7H] One pair[7]
+Player 2 [QH,JC,7C,8C,KD] KD High
+Player 1 wins!
+
+ Round: 324 
+Player 1 [3C,KD,KH,2S,4C] One pair[13]
+Player 2 [TS,AC,6S,2C,7C] AC High
+Player 1 wins!
+
+ Round: 325 
+Player 1 [2C,KH,3C,4C,6H] KH High
+Player 2 [4D,5H,5S,7S,QD] One pair[5]
+Player 2 wins!
+
+ Round: 326 
+Player 1 [4D,7C,8S,QD,TS] QD High
+Player 2 [9D,KS,6H,KD,3C] One pair[13]
+Player 2 wins!
+
+ Round: 327 
+Player 1 [QS,4D,TS,7S,4C] One pair[4]
+Player 2 [3H,QD,8D,9S,TC] QD High
+Player 1 wins!
+
+ Round: 328 
+Player 1 [TS,QH,AC,6S,3C] AC High
+Player 2 [9H,9D,QS,8S,6H] One pair[9]
+Player 2 wins!
+
+ Round: 329 
+Player 1 [3S,7S,5D,4S,JS] JS High
+Player 2 [2D,6C,QH,6S,TH] One pair[6]
+Player 2 wins!
+
+ Round: 330 
+Player 1 [4C,4H,AS,JS,5D] One pair[4]
+Player 2 [3D,TS,9C,AC,8S] AC High
+Player 1 wins!
+
+ Round: 331 
+Player 1 [6S,9C,7C,3S,5C] 9C High
+Player 2 [QS,AD,AS,6H,3C] One pair[14]
+Player 2 wins!
+
+ Round: 332 
+Player 1 [9S,8C,7H,3H,6S] 9S High
+Player 2 [7C,AS,9H,JD,KH] AS High
+Player 2 wins!
+
+ Round: 333 
+Player 1 [3D,3H,7S,4D,6C] One pair[3]
+Player 2 [7C,AC,2H,9C,TH] AC High
+Player 1 wins!
+
+ Round: 334 
+Player 1 [4H,5S,3H,AC,TC] AC High
+Player 2 [TH,9C,9H,9S,8D] Three of a kind[9]
+Player 2 wins!
+
+ Round: 335 
+Player 1 [8D,9H,5H,4D,6C] 9H High
+Player 2 [2H,QD,6S,5D,3S] QD High
+Player 2 wins!
+
+ Round: 336 
+Player 1 [4C,5C,JD,QS,4D] One pair[4]
+Player 2 [3H,TH,AC,QH,8C] AC High
+Player 1 wins!
+
+ Round: 337 
+Player 1 [QC,5S,3C,7H,AD] AD High
+Player 2 [4C,KS,4H,JD,6D] One pair[4]
+Player 2 wins!
+
+ Round: 338 
+Player 1 [QS,AH,3H,KS,9H] AH High
+Player 2 [2S,JS,JH,5H,2H] Two pairs[2, 11]
+Player 2 wins!
+
+ Round: 339 
+Player 1 [2H,5S,TH,6S,TS] One pair[10]
+Player 2 [3S,KS,3C,5H,JS] One pair[3]
+Player 1 wins!
+
+ Round: 340 
+Player 1 [2D,9S,7H,3D,KC] KC High
+Player 2 [JH,6D,7D,JS,TD] One pair[11]
+Player 2 wins!
+
+ Round: 341 
+Player 1 [AC,JS,8H,2C,8C] One pair[8]
+Player 2 [JH,JC,2D,TH,7S] One pair[11]
+Player 2 wins!
+
+ Round: 342 
+Player 1 [5D,9S,8H,2H,3D] 9S High
+Player 2 [TC,AH,JC,KD,9C] AH High
+Player 2 wins!
+
+ Round: 343 
+Player 1 [9D,QD,JC,2H,6D] QD High
+Player 2 [KH,TS,9S,QH,TH] One pair[10]
+Player 2 wins!
+
+ Round: 344 
+Player 1 [2C,8D,4S,JD,5H] JD High
+Player 2 [3H,TH,TC,9C,KC] One pair[10]
+Player 2 wins!
+
+ Round: 345 
+Player 1 [AS,3D,9H,7D,4D] AS High
+Player 2 [TH,KH,2H,7S,3H] KH High
+Player 1 wins!
+
+ Round: 346 
+Player 1 [4H,7S,KS,2S,JS] KS High
+Player 2 [TS,8S,2H,QD,8D] One pair[8]
+Player 2 wins!
+
+ Round: 347 
+Player 1 [5S,6H,JH,KS,8H] KS High
+Player 2 [2S,QC,AC,6S,3S] AC High
+Player 2 wins!
+
+ Round: 348 
+Player 1 [JC,AS,AD,QS,8H] One pair[14]
+Player 2 [6C,KH,4C,4D,QD] One pair[4]
+Player 1 wins!
+
+ Round: 349 
+Player 1 [2S,3D,TS,TD,9S] One pair[10]
+Player 2 [KS,6S,QS,5C,8D] KS High
+Player 1 wins!
+
+ Round: 350 
+Player 1 [3C,6D,4S,QC,KC] KC High
+Player 2 [JH,QD,TH,KH,AD] Straight[#<Card:0x000000012d9d6cb8 @face=10, @suit=1>, #<Card:0x000000012d9d7730 @face=11, @suit=1>, #<Card:0x000000012d9d7028 @face=12, @suit=2>, #<Card:0x000000012d9d6470 @face=13, @suit=1>, #<Card:0x000000012d9d5d90 @face=14, @suit=2>]
+Player 2 wins!
+
+ Round: 351 
+Player 1 [9H,AH,4D,KS,2S] AH High
+Player 2 [8D,JH,JC,7C,QS] One pair[11]
+Player 2 wins!
+
+ Round: 352 
+Player 1 [2D,6C,TH,3C,8H] TH High
+Player 2 [QD,QH,2S,3S,KS] One pair[12]
+Player 2 wins!
+
+ Round: 353 
+Player 1 [6H,5D,9S,4C,TS] TS High
+Player 2 [TD,JS,QD,9D,JD] One pair[11]
+Player 2 wins!
+
+ Round: 354 
+Player 1 [5H,8H,KH,8S,KS] Two pairs[8, 13]
+Player 2 [7C,TD,AD,4S,KD] AD High
+Player 1 wins!
+
+ Round: 355 
+Player 1 [2C,7C,JC,5S,AS] AS High
+Player 2 [6C,7D,8S,5H,9C] Straight[#<Card:0x000000012c8255f0 @face=5, @suit=1>, #<Card:0x000000012c825848 @face=6, @suit=3>, #<Card:0x000000012c825780 @face=7, @suit=2>, #<Card:0x000000012c8256b8 @face=8, @suit=0>, #<Card:0x000000012c825528 @face=9, @suit=3>]
+Player 2 wins!
+
+ Round: 356 
+Player 1 [6S,QD,9S,TS,KH] KH High
+Player 2 [QS,5S,QH,3C,KC] One pair[12]
+Player 2 wins!
+
+ Round: 357 
+Player 1 [7D,3H,3C,KD,5C] One pair[3]
+Player 2 [AS,JH,7H,6H,JD] One pair[11]
+Player 2 wins!
+
+ Round: 358 
+Player 1 [9D,5C,9H,KC,8H] One pair[9]
+Player 2 [KS,4S,AD,4D,2S] One pair[4]
+Player 1 wins!
+
+ Round: 359 
+Player 1 [3S,JD,QD,8D,2S] QD High
+Player 2 [7C,5S,6S,5H,TS] One pair[5]
+Player 2 wins!
+
+ Round: 360 
+Player 1 [6D,9S,KC,TD,3S] KC High
+Player 2 [6H,QD,JD,5C,8D] QD High
+Player 1 wins!
+
+ Round: 361 
+Player 1 [5H,9D,TS,KD,8D] KD High
+Player 2 [6H,TD,QC,4C,7D] QC High
+Player 1 wins!
+
+ Round: 362 
+Player 1 [6D,4S,JD,9D,AH] AH High
+Player 2 [9S,AS,TD,9H,QD] One pair[9]
+Player 2 wins!
+
+ Round: 363 
+Player 1 [2D,5S,2H,9C,6H] One pair[2]
+Player 2 [9S,TD,QC,7D,TC] One pair[10]
+Player 2 wins!
+
+ Round: 364 
+Player 1 [3S,2H,KS,TS,2C] One pair[2]
+Player 2 [9C,8S,JS,9D,7D] One pair[9]
+Player 2 wins!
+
+ Round: 365 
+Player 1 [3C,KC,6D,5D,6C] One pair[6]
+Player 2 [6H,8S,AS,7S,QS] AS High
+Player 1 wins!
+
+ Round: 366 
+Player 1 [JH,9S,2H,8D,4C] JH High
+Player 2 [8H,9H,AD,TH,KH] AD High
+Player 2 wins!
+
+ Round: 367 
+Player 1 [QC,AS,2S,JS,5C] AS High
+Player 2 [6H,KD,3H,7H,2C] KD High
+Player 1 wins!
+
+ Round: 368 
+Player 1 [QD,8H,2S,8D,3S] One pair[8]
+Player 2 [6D,AH,2C,TC,5C] AH High
+Player 1 wins!
+
+ Round: 369 
+Player 1 [JD,JS,TS,8S,3H] One pair[11]
+Player 2 [5D,TD,KC,JC,6H] KC High
+Player 1 wins!
+
+ Round: 370 
+Player 1 [6S,QS,TC,3H,5D] QS High
+Player 2 [AH,JC,7C,7D,4H] One pair[7]
+Player 2 wins!
+
+ Round: 371 
+Player 1 [7C,5D,8H,9C,2H] 9C High
+Player 2 [9H,JH,KH,5S,2C] KH High
+Player 2 wins!
+
+ Round: 372 
+Player 1 [9C,7H,6S,TH,3S] TH High
+Player 2 [QC,QD,4C,AC,JD] One pair[12]
+Player 2 wins!
+
+ Round: 373 
+Player 1 [2H,5D,9S,7D,KC] KC High
+Player 2 [3S,QS,2D,AS,KH] AS High
+Player 2 wins!
+
+ Round: 374 
+Player 1 [2S,4S,2H,7D,5C] One pair[2]
+Player 2 [TD,TH,QH,9S,4D] One pair[10]
+Player 2 wins!
+
+ Round: 375 
+Player 1 [6D,3S,TS,6H,4H] One pair[6]
+Player 2 [KS,9D,8H,5S,2D] KS High
+Player 1 wins!
+
+ Round: 376 
+Player 1 [9H,KS,4H,3S,5C] KS High
+Player 2 [5D,KH,6H,6S,JS] One pair[6]
+Player 2 wins!
+
+ Round: 377 
+Player 1 [KC,AS,8C,4C,JC] AS High
+Player 2 [KH,QC,TH,QD,AH] One pair[12]
+Player 2 wins!
+
+ Round: 378 
+Player 1 [6S,KH,9S,2C,5H] KH High
+Player 2 [TC,3C,7H,JC,4D] JC High
+Player 1 wins!
+
+ Round: 379 
+Player 1 [JD,4S,6S,5S,8D] JD High
+Player 2 [7H,7S,4D,4C,2H] Two pairs[7, 4]
+Player 2 wins!
+
+ Round: 380 
+Player 1 [7H,9H,5D,KH,9C] One pair[9]
+Player 2 [7C,TS,TC,7S,5H] Two pairs[7, 10]
+Player 2 wins!
+
+ Round: 381 
+Player 1 [4C,8D,QC,TS,4S] One pair[4]
+Player 2 [9H,3D,AD,JS,7C] AD High
+Player 1 wins!
+
+ Round: 382 
+Player 1 [8C,QS,5C,5D,3H] One pair[5]
+Player 2 [JS,AH,KC,4S,9D] AH High
+Player 1 wins!
+
+ Round: 383 
+Player 1 [TS,JD,8S,QS,TH] One pair[10]
+Player 2 [JH,KH,2D,QD,JS] One pair[11]
+Player 2 wins!
+
+ Round: 384 
+Player 1 [JD,QC,5D,6S,9H] QC High
+Player 2 [3S,2C,8H,9S,TS] TS High
+Player 1 wins!
+
+ Round: 385 
+Player 1 [2S,4C,AD,7H,JC] AD High
+Player 2 [5C,2D,6D,4H,3D] Straight[#<Card:0x000000012d96c700 @face=2, @suit=2>, #<Card:0x000000012d96c4a8 @face=3, @suit=2>, #<Card:0x000000012d96c570 @face=4, @suit=1>, #<Card:0x000000012d96c7c8 @face=5, @suit=3>, #<Card:0x000000012d96c638 @face=6, @suit=2>]
+Player 2 wins!
+
+ Round: 386 
+Player 1 [7S,JS,2C,4H,8C] JS High
+Player 2 [AD,QD,9C,3S,TD] AD High
+Player 2 wins!
+
+ Round: 387 
+Player 1 [JD,TS,4C,6H,9H] JD High
+Player 2 [7D,QD,6D,3C,AS] AS High
+Player 2 wins!
+
+ Round: 388 
+Player 1 [AS,7C,4C,6S,5D] AS High
+Player 2 [5S,5C,JS,QC,4S] One pair[5]
+Player 2 wins!
+
+ Round: 389 
+Player 1 [KD,6S,9S,7C,3C] KD High
+Player 2 [5S,7D,JH,QD,JS] One pair[11]
+Player 2 wins!
+
+ Round: 390 
+Player 1 [4S,7S,JH,2C,8S] JH High
+Player 2 [5D,7H,3D,QH,AD] AD High
+Player 2 wins!
+
+ Round: 391 
+Player 1 [TD,6H,2H,8D,4H] TD High
+Player 2 [2D,7C,AD,KH,5D] AD High
+Player 2 wins!
+
+ Round: 392 
+Player 1 [TS,3S,5H,2C,QD] QD High
+Player 2 [AH,2S,5C,KH,TD] AH High
+Player 2 wins!
+
+ Round: 393 
+Player 1 [KC,4D,8C,5D,AS] AS High
+Player 2 [6C,2H,2S,9H,7C] One pair[2]
+Player 2 wins!
+
+ Round: 394 
+Player 1 [KD,JS,QC,TS,QS] One pair[12]
+Player 2 [KH,JH,2C,5D,AD] AD High
+Player 1 wins!
+
+ Round: 395 
+Player 1 [3S,5H,KC,6C,9H] KC High
+Player 2 [3H,2H,AD,7D,7S] One pair[7]
+Player 2 wins!
+
+ Round: 396 
+Player 1 [7S,JS,JH,KD,8S] One pair[11]
+Player 2 [7D,2S,9H,7C,2H] Two pairs[7, 2]
+Player 2 wins!
+
+ Round: 397 
+Player 1 [9H,2D,8D,QC,6S] QC High
+Player 2 [AD,AS,8H,5H,6C] One pair[14]
+Player 2 wins!
+
+ Round: 398 
+Player 1 [2S,7H,6C,6D,7D] Two pairs[7, 6]
+Player 2 [8C,5D,9D,JC,3C] JC High
+Player 1 wins!
+
+ Round: 399 
+Player 1 [7C,9C,7H,JD,2H] One pair[7]
+Player 2 [KD,3S,KH,AD,4S] One pair[13]
+Player 2 wins!
+
+ Round: 400 
+Player 1 [QH,AS,9H,4D,JD] AS High
+Player 2 [KS,KD,TS,KH,5H] Three of a kind[13]
+Player 2 wins!
+
+ Round: 401 
+Player 1 [4C,8H,5S,3S,3D] One pair[3]
+Player 2 [7D,TD,AD,7S,KC] One pair[7]
+Player 2 wins!
+
+ Round: 402 
+Player 1 [JS,8S,5S,JC,8H] Two pairs[11, 8]
+Player 2 [TH,9C,4D,5D,KC] KC High
+Player 1 wins!
+
+ Round: 403 
+Player 1 [7C,5S,9C,QD,2C] QD High
+Player 2 [QH,JS,5H,8D,KH] KH High
+Player 2 wins!
+
+ Round: 404 
+Player 1 [TD,2S,KS,3D,AD] AD High
+Player 2 [KC,7S,TC,3C,5D] KC High
+Player 1 wins!
+
+ Round: 405 
+Player 1 [4C,2S,AD,QS,6C] AD High
+Player 2 [9S,QD,TH,QH,5C] One pair[12]
+Player 2 wins!
+
+ Round: 406 
+Player 1 [8C,AD,QS,2D,2S] One pair[2]
+Player 2 [KC,JD,KS,6C,JC] Two pairs[13, 11]
+Player 2 wins!
+
+ Round: 407 
+Player 1 [8D,4D,JS,2H,5D] JS High
+Player 2 [QD,7S,7D,QH,TS] Two pairs[12, 7]
+Player 2 wins!
+
+ Round: 408 
+Player 1 [6S,7H,3S,8C,8S] One pair[8]
+Player 2 [9D,QS,8H,6C,9S] One pair[9]
+Player 2 wins!
+
+ Round: 409 
+Player 1 [4S,TC,2S,5C,QD] QD High
+Player 2 [4D,QS,6D,TH,6S] One pair[6]
+Player 2 wins!
+
+ Round: 410 
+Player 1 [3S,5C,9D,6H,8D] 9D High
+Player 2 [4C,7D,TC,7C,TD] Two pairs[7, 10]
+Player 2 wins!
+
+ Round: 411 
+Player 1 [AH,6S,AS,7H,5S] One pair[14]
+Player 2 [KD,3H,5H,AC,4C] AC High
+Player 1 wins!
+
+ Round: 412 
+Player 1 [8D,8S,AH,KS,QS] One pair[8]
+Player 2 [2C,AD,6H,7D,5D] AD High
+Player 1 wins!
+
+ Round: 413 
+Player 1 [6H,9H,9S,2H,QS] One pair[9]
+Player 2 [8S,9C,5D,2D,KD] KD High
+Player 1 wins!
+
+ Round: 414 
+Player 1 [TS,QC,5S,JH,7D] QC High
+Player 2 [7S,TH,9S,9H,AC] One pair[9]
+Player 2 wins!
+
+ Round: 415 
+Player 1 [7H,3H,6S,KC,4D] KC High
+Player 2 [6D,5C,4S,QD,TS] QD High
+Player 1 wins!
+
+ Round: 416 
+Player 1 [TD,2S,7C,QD,3H] QD High
+Player 2 [JH,9D,4H,7S,7H] One pair[7]
+Player 2 wins!
+
+ Round: 417 
+Player 1 [KS,3D,4H,5H,TC] KS High
+Player 2 [2S,AS,2D,6D,7D] One pair[2]
+Player 2 wins!
+
+ Round: 418 
+Player 1 [8H,3C,7H,TD,3H] One pair[3]
+Player 2 [AD,KC,TH,9C,KH] One pair[13]
+Player 2 wins!
+
+ Round: 419 
+Player 1 [TC,4C,2C,9S,9D] One pair[9]
+Player 2 [9C,5C,2H,JD,3C] JD High
+Player 1 wins!
+
+ Round: 420 
+Player 1 [3H,AC,TS,5D,AD] One pair[14]
+Player 2 [8D,6H,QC,6S,8C] Two pairs[8, 6]
+Player 2 wins!
+
+ Round: 421 
+Player 1 [2S,TS,3S,JD,7H] JD High
+Player 2 [8S,QH,4C,5S,8D] One pair[8]
+Player 2 wins!
+
+ Round: 422 
+Player 1 [AC,4S,6C,3C,KH] AC High
+Player 2 [3D,7C,2D,8S,2H] One pair[2]
+Player 2 wins!
+
+ Round: 423 
+Player 1 [4H,6C,8S,TH,2H] TH High
+Player 2 [4S,8H,9S,3H,7S] 9S High
+Player 1 wins!
+
+ Round: 424 
+Player 1 [7C,4C,9C,2C,5C] Flush
+Player 2 [AS,5D,KD,4D,QH] AS High
+Player 1 wins!
+
+ Round: 425 
+Player 1 [9H,4H,TS,AS,7D] AS High
+Player 2 [8D,5D,9S,8C,2H] One pair[8]
+Player 2 wins!
+
+ Round: 426 
+Player 1 [QC,KD,AC,AD,2H] One pair[14]
+Player 2 [7S,AS,3S,2D,9S] AS High
+Player 1 wins!
+
+ Round: 427 
+Player 1 [2H,QC,8H,TC,6D] QC High
+Player 2 [QD,QS,5D,KH,3C] One pair[12]
+Player 2 wins!
+
+ Round: 428 
+Player 1 [TH,JD,QS,4C,2S] QS High
+Player 2 [5S,AD,7H,3S,AS] One pair[14]
+Player 2 wins!
+
+ Round: 429 
+Player 1 [7H,JS,3D,6C,3S] One pair[3]
+Player 2 [6D,AS,9S,AC,QS] One pair[14]
+Player 2 wins!
+
+ Round: 430 
+Player 1 [9C,TS,AS,8C,TC] One pair[10]
+Player 2 [8S,6H,9D,8D,6C] Two pairs[8, 6]
+Player 2 wins!
+
+ Round: 431 
+Player 1 [4D,JD,9C,KC,7C] KC High
+Player 2 [6D,KS,3S,8C,AS] AS High
+Player 2 wins!
+
+ Round: 432 
+Player 1 [3H,6S,TC,8D,TS] One pair[10]
+Player 2 [3S,KC,9S,7C,AS] AS High
+Player 1 wins!
+
+ Round: 433 
+Player 1 [8C,QC,4H,4S,8S] Two pairs[8, 4]
+Player 2 [6C,3S,TC,AH,AC] One pair[14]
+Player 1 wins!
+
+ Round: 434 
+Player 1 [4D,7D,5C,AS,2H] AS High
+Player 2 [6S,TS,QC,AD,TC] One pair[10]
+Player 2 wins!
+
+ Round: 435 
+Player 1 [QD,QC,8S,4S,TH] One pair[12]
+Player 2 [3D,AH,TS,JH,4H] AH High
+Player 1 wins!
+
+ Round: 436 
+Player 1 [5C,2D,9S,2C,3H] One pair[2]
+Player 2 [3C,9D,QD,QH,7D] One pair[12]
+Player 2 wins!
+
+ Round: 437 
+Player 1 [KC,9H,6C,KD,7S] One pair[13]
+Player 2 [3C,4D,AS,TC,2D] AS High
+Player 1 wins!
+
+ Round: 438 
+Player 1 [3D,JS,4D,9D,KS] KS High
+Player 2 [7D,TH,QC,3H,3C] One pair[3]
+Player 2 wins!
+
+ Round: 439 
+Player 1 [8D,5S,2H,9D,3H] 9D High
+Player 2 [8C,4C,4H,3C,TH] One pair[4]
+Player 2 wins!
+
+ Round: 440 
+Player 1 [JC,TH,4S,6S,JD] One pair[11]
+Player 2 [2D,4D,6C,3D,4C] One pair[4]
+Player 1 wins!
+
+ Round: 441 
+Player 1 [TS,3S,2D,4H,AC] AC High
+Player 2 [2C,6S,2H,JH,6H] Two pairs[2, 6]
+Player 2 wins!
+
+ Round: 442 
+Player 1 [TD,8S,AD,TC,AH] Two pairs[10, 14]
+Player 2 [AC,JH,9S,6S,7S] AC High
+Player 1 wins!
+
+ Round: 443 
+Player 1 [6C,KC,4S,JD,8D] KC High
+Player 2 [9H,5S,7H,QH,AH] AH High
+Player 2 wins!
+
+ Round: 444 
+Player 1 [KD,8D,TS,JH,5C] KD High
+Player 2 [5H,3H,AD,AS,JS] One pair[14]
+Player 2 wins!
+
+ Round: 445 
+Player 1 [2D,4H,3D,6C,8C] 8C High
+Player 2 [7S,AD,5D,5C,8S] One pair[5]
+Player 2 wins!
+
+ Round: 446 
+Player 1 [TD,5D,7S,9C,4S] TD High
+Player 2 [5H,6C,8C,4C,8S] One pair[8]
+Player 2 wins!
+
+ Round: 447 
+Player 1 [JS,QH,9C,AS,5C] AS High
+Player 2 [QS,JC,3D,QC,7C] One pair[12]
+Player 2 wins!
+
+ Round: 448 
+Player 1 [JC,9C,KH,JH,QS] One pair[11]
+Player 2 [QC,2C,TS,3D,AD] AD High
+Player 1 wins!
+
+ Round: 449 
+Player 1 [5D,JH,AC,5C,9S] One pair[5]
+Player 2 [TS,4C,JD,8C,KS] KS High
+Player 1 wins!
+
+ Round: 450 
+Player 1 [KC,AS,2D,KH,9H] One pair[13]
+Player 2 [2C,5S,4D,3D,6H] Straight[#<Card:0x000000012d93a1d8 @face=2, @suit=3>, #<Card:0x000000012d938928 @face=3, @suit=2>, #<Card:0x000000012d938e00 @face=4, @suit=2>, #<Card:0x000000012d939738 @face=5, @suit=0>, #<Card:0x000000012d9384a0 @face=6, @suit=1>]
+Player 2 wins!
+
+ Round: 451 
+Player 1 [TH,AH,2D,8S,JC] AH High
+Player 2 [3D,8C,QH,7S,3S] One pair[3]
+Player 2 wins!
+
+ Round: 452 
+Player 1 [8H,QD,4H,JC,AS] AS High
+Player 2 [KH,KS,3C,9S,6D] One pair[13]
+Player 2 wins!
+
+ Round: 453 
+Player 1 [9S,QH,7D,9C,4S] One pair[9]
+Player 2 [AC,7H,KH,4D,KD] One pair[13]
+Player 2 wins!
+
+ Round: 454 
+Player 1 [AH,AD,TH,6D,9C] One pair[14]
+Player 2 [9S,KD,KS,QH,4H] One pair[13]
+Player 1 wins!
+
+ Round: 455 
+Player 1 [QD,6H,9C,7C,QS] One pair[12]
+Player 2 [6D,6S,9D,5S,JH] One pair[6]
+Player 1 wins!
+
+ Round: 456 
+Player 1 [AH,8D,5H,QD,2H] AH High
+Player 2 [JC,KS,4H,KH,5S] One pair[13]
+Player 2 wins!
+
+ Round: 457 
+Player 1 [5C,2S,JS,8D,9C] JS High
+Player 2 [8C,3D,AS,KC,AH] One pair[14]
+Player 2 wins!
+
+ Round: 458 
+Player 1 [JD,9S,2H,QS,8H] QS High
+Player 2 [5S,8C,TH,5C,4C] One pair[5]
+Player 2 wins!
+
+ Round: 459 
+Player 1 [QC,QS,8C,2S,2C] Two pairs[12, 2]
+Player 2 [3S,9C,4C,KS,KH] One pair[13]
+Player 1 wins!
+
+ Round: 460 
+Player 1 [2D,5D,8S,AH,AD] One pair[14]
+Player 2 [TD,2C,JS,KS,8C] KS High
+Player 1 wins!
+
+ Round: 461 
+Player 1 [TC,5S,5H,8H,QC] One pair[5]
+Player 2 [9H,6H,JD,4H,9S] One pair[9]
+Player 2 wins!
+
+ Round: 462 
+Player 1 [3C,JH,4H,9H,AH] AH High
+Player 2 [4S,2H,4C,8D,AC] One pair[4]
+Player 2 wins!
+
+ Round: 463 
+Player 1 [8S,TH,4D,7D,6D] TH High
+Player 2 [QD,QS,7S,TC,7C] Two pairs[12, 7]
+Player 2 wins!
+
+ Round: 464 
+Player 1 [KH,6D,2D,JD,5H] KH High
+Player 2 [JS,QD,JH,4H,4S] Two pairs[11, 4]
+Player 2 wins!
+
+ Round: 465 
+Player 1 [9C,7S,JH,4S,3S] JH High
+Player 2 [TS,QC,8C,TC,4H] One pair[10]
+Player 2 wins!
+
+ Round: 466 
+Player 1 [QH,9D,4D,JH,QS] One pair[12]
+Player 2 [3S,2C,7C,6C,2D] One pair[2]
+Player 1 wins!
+
+ Round: 467 
+Player 1 [4H,9S,JD,5C,5H] One pair[5]
+Player 2 [AH,9D,TS,2D,4C] AH High
+Player 1 wins!
+
+ Round: 468 
+Player 1 [KS,JH,TS,5D,2D] KS High
+Player 2 [AH,JS,7H,AS,8D] One pair[14]
+Player 2 wins!
+
+ Round: 469 
+Player 1 [JS,AH,8C,AD,KS] One pair[14]
+Player 2 [5S,8H,2C,6C,TH] TH High
+Player 1 wins!
+
+ Round: 470 
+Player 1 [2H,5D,AD,AC,KS] One pair[14]
+Player 2 [3D,8H,TS,6H,QC] QC High
+Player 1 wins!
+
+ Round: 471 
+Player 1 [6D,4H,TS,9C,5H] TS High
+Player 2 [JS,JH,6S,JD,4C] Three of a kind[11]
+Player 2 wins!
+
+ Round: 472 
+Player 1 [JH,QH,4H,2C,6D] QH High
+Player 2 [3C,5D,4C,QS,KC] KC High
+Player 2 wins!
+
+ Round: 473 
+Player 1 [6H,4H,6C,7H,6S] Three of a kind[6]
+Player 2 [2S,8S,KH,QC,8C] One pair[8]
+Player 1 wins!
+
+ Round: 474 
+Player 1 [3H,3D,5D,KS,4H] One pair[3]
+Player 2 [TD,AD,3S,4D,TS] One pair[10]
+Player 2 wins!
+
+ Round: 475 
+Player 1 [5S,7C,8S,7D,2C] One pair[7]
+Player 2 [KS,7S,6C,8C,JS] KS High
+Player 1 wins!
+
+ Round: 476 
+Player 1 [5D,2H,3S,7C,5C] One pair[5]
+Player 2 [QD,5H,6D,9C,9H] One pair[9]
+Player 2 wins!
+
+ Round: 477 
+Player 1 [JS,2S,KD,9S,8D] KD High
+Player 2 [TD,TS,AC,8C,9D] One pair[10]
+Player 2 wins!
+
+ Round: 478 
+Player 1 [5H,QD,2S,AC,8C] AC High
+Player 2 [9H,KS,7C,4S,3C] KS High
+Player 1 wins!
+
+ Round: 479 
+Player 1 [KH,AS,3H,8S,9C] AS High
+Player 2 [JS,QS,4S,AD,4D] One pair[4]
+Player 2 wins!
+
+ Round: 480 
+Player 1 [AS,2S,TD,AD,4D] One pair[14]
+Player 2 [9H,JC,4C,5H,QS] QS High
+Player 1 wins!
+
+ Round: 481 
+Player 1 [5D,7C,4H,TC,2D] TC High
+Player 2 [6C,JS,4S,KC,3S] KC High
+Player 2 wins!
+
+ Round: 482 
+Player 1 [4C,2C,5D,AC,9H] AC High
+Player 2 [3D,JD,8S,QS,QH] One pair[12]
+Player 2 wins!
+
+ Round: 483 
+Player 1 [2C,8S,6H,3C,QH] QH High
+Player 2 [6D,TC,KD,AC,AH] One pair[14]
+Player 2 wins!
+
+ Round: 484 
+Player 1 [QC,6C,3S,QS,4S] One pair[12]
+Player 2 [AC,8D,5C,AD,KH] One pair[14]
+Player 2 wins!
+
+ Round: 485 
+Player 1 [5S,4C,AC,KH,AS] One pair[14]
+Player 2 [QC,2C,5C,8D,9C] QC High
+Player 1 wins!
+
+ Round: 486 
+Player 1 [8H,JD,3C,KH,8D] One pair[8]
+Player 2 [5C,9C,QD,QH,9D] Two pairs[9, 12]
+Player 2 wins!
+
+ Round: 487 
+Player 1 [7H,TS,2C,8C,4S] TS High
+Player 2 [TD,JC,9C,5H,QH] QH High
+Player 2 wins!
+
+ Round: 488 
+Player 1 [JS,4S,2C,7C,TH] JS High
+Player 2 [6C,AS,KS,7S,JD] AS High
+Player 2 wins!
+
+ Round: 489 
+Player 1 [JH,7C,9H,7H,TC] One pair[7]
+Player 2 [5H,3D,6D,5D,4D] One pair[5]
+Player 1 wins!
+
+ Round: 490 
+Player 1 [2C,QD,JH,2H,9D] One pair[2]
+Player 2 [5S,3D,TD,AD,KS] AD High
+Player 1 wins!
+
+ Round: 491 
+Player 1 [JD,QH,3S,4D,TH] QH High
+Player 2 [7D,6S,QS,KS,4H] KS High
+Player 2 wins!
+
+ Round: 492 
+Player 1 [TC,KS,5S,8D,8H] One pair[8]
+Player 2 [AD,2S,2D,4C,JH] One pair[2]
+Player 1 wins!
+
+ Round: 493 
+Player 1 [5S,JH,TC,3S,2D] JH High
+Player 2 [QS,9D,4C,KD,9S] One pair[9]
+Player 2 wins!
+
+ Round: 494 
+Player 1 [AC,KH,3H,AS,9D] One pair[14]
+Player 2 [KC,9H,QD,6C,6S] One pair[6]
+Player 1 wins!
+
+ Round: 495 
+Player 1 [9H,7S,3D,5C,7D] One pair[7]
+Player 2 [KC,TD,8H,4H,6S] KC High
+Player 1 wins!
+
+ Round: 496 
+Player 1 [3C,7H,8H,TC,QD] QD High
+Player 2 [4D,7S,6S,QH,6C] One pair[6]
+Player 2 wins!
+
+ Round: 497 
+Player 1 [6D,AD,4C,QD,6C] One pair[6]
+Player 2 [5D,7D,9D,KS,TS] KS High
+Player 1 wins!
+
+ Round: 498 
+Player 1 [JH,2H,JD,9S,7S] One pair[11]
+Player 2 [TS,KH,8D,5D,8H] One pair[8]
+Player 1 wins!
+
+ Round: 499 
+Player 1 [2D,9S,4C,7D,9D] One pair[9]
+Player 2 [5H,QD,6D,AC,6S] One pair[6]
+Player 1 wins!
+
+ Round: 500 
+Player 1 [7S,6D,JC,QD,JH] One pair[11]
+Player 2 [4C,6S,QS,2H,7D] QS High
+Player 1 wins!
+
+ Round: 501 
+Player 1 [8C,TD,JH,KD,2H] KD High
+Player 2 [5C,QS,2C,JS,7S] QS High
+Player 1 wins!
+
+ Round: 502 
+Player 1 [TC,5H,4H,JH,QD] QD High
+Player 2 [3S,5S,5D,8S,KH] One pair[5]
+Player 2 wins!
+
+ Round: 503 
+Player 1 [KS,KH,7C,2C,5D] One pair[13]
+Player 2 [JH,6S,9C,6D,JC] Two pairs[11, 6]
+Player 2 wins!
+
+ Round: 504 
+Player 1 [5H,AH,JD,9C,JS] One pair[11]
+Player 2 [KC,2H,6H,4D,5S] KC High
+Player 1 wins!
+
+ Round: 505 
+Player 1 [AS,3C,TH,QC,6H] AS High
+Player 2 [9C,8S,8C,TD,7C] One pair[8]
+Player 2 wins!
+
+ Round: 506 
+Player 1 [KC,2C,QD,9C,KH] One pair[13]
+Player 2 [4D,7S,3C,TS,9H] TS High
+Player 1 wins!
+
+ Round: 507 
+Player 1 [9C,QC,2S,TS,8C] QC High
+Player 2 [TD,9S,QD,3S,3C] One pair[3]
+Player 2 wins!
+
+ Round: 508 
+Player 1 [4D,9D,TH,JH,AH] AH High
+Player 2 [6S,2S,JD,QH,JS] One pair[11]
+Player 2 wins!
+
+ Round: 509 
+Player 1 [QD,9H,6C,KD,7D] KD High
+Player 2 [7H,5D,6S,8H,AH] AH High
+Player 2 wins!
+
+ Round: 510 
+Player 1 [8H,3C,4S,2H,5H] 8H High
+Player 2 [QS,QH,7S,4H,AC] One pair[12]
+Player 2 wins!
+
+ Round: 511 
+Player 1 [QS,3C,7S,9S,4H] QS High
+Player 2 [3S,AH,KS,9D,7C] AH High
+Player 2 wins!
+
+ Round: 512 
+Player 1 [AD,5S,6S,2H,2D] One pair[2]
+Player 2 [5H,TC,4S,3C,8C] TC High
+Player 1 wins!
+
+ Round: 513 
+Player 1 [QH,TS,6S,4D,JS] QH High
+Player 2 [KS,JH,AS,8S,6D] AS High
+Player 2 wins!
+
+ Round: 514 
+Player 1 [2C,8S,2S,TD,5H] One pair[2]
+Player 2 [AS,TC,TS,6C,KC] One pair[10]
+Player 2 wins!
+
+ Round: 515 
+Player 1 [KC,TS,8H,2H,3H] KC High
+Player 2 [7C,4C,5S,TH,TD] One pair[10]
+Player 2 wins!
+
+ Round: 516 
+Player 1 [KD,AD,KH,7H,7S] Two pairs[13, 7]
+Player 2 [5D,5H,5S,2D,9C] Three of a kind[5]
+Player 1 wins!
+
+ Round: 517 
+Player 1 [AD,9S,3D,7S,8C] AD High
+Player 2 [QC,7C,9C,KD,KS] One pair[13]
+Player 2 wins!
+
+ Round: 518 
+Player 1 [3C,QC,9S,8C,4D] QC High
+Player 2 [5C,AS,QD,6C,2C] AS High
+Player 2 wins!
+
+ Round: 519 
+Player 1 [2H,KC,8S,JD,7S] KC High
+Player 2 [AC,8D,5C,2S,4D] AC High
+Player 2 wins!
+
+ Round: 520 
+Player 1 [9D,QH,3D,2S,TC] QH High
+Player 2 [3S,KS,3C,9H,TD] One pair[3]
+Player 2 wins!
+
+ Round: 521 
+Player 1 [KD,6S,AC,2C,7H] AC High
+Player 2 [5H,3S,6C,6H,8C] One pair[6]
+Player 2 wins!
+
+ Round: 522 
+Player 1 [QH,TC,8S,6S,KH] KH High
+Player 2 [TH,4H,5D,TS,4D] Two pairs[10, 4]
+Player 2 wins!
+
+ Round: 523 
+Player 1 [8C,JS,4H,6H,2C] JS High
+Player 2 [2H,7D,AC,QD,3D] AC High
+Player 2 wins!
+
+ Round: 524 
+Player 1 [QS,KC,6S,2D,5S] KC High
+Player 2 [4H,TD,3H,JH,4C] One pair[4]
+Player 2 wins!
+
+ Round: 525 
+Player 1 [7S,5H,7H,8H,KH] One pair[7]
+Player 2 [6H,QS,TH,KD,7D] KD High
+Player 1 wins!
+
+ Round: 526 
+Player 1 [5H,AD,KD,7C,KH] One pair[13]
+Player 2 [5S,TD,6D,3C,6C] One pair[6]
+Player 1 wins!
+
+ Round: 527 
+Player 1 [8C,9C,5H,JD,7C] JD High
+Player 2 [KC,KH,7H,2H,3S] One pair[13]
+Player 2 wins!
+
+ Round: 528 
+Player 1 [7S,4H,AD,4D,8S] One pair[4]
+Player 2 [QS,TH,3D,7H,5S] QS High
+Player 1 wins!
+
+ Round: 529 
+Player 1 [8D,TC,KS,KD,9S] One pair[13]
+Player 2 [6D,AD,JD,5C,2S] AD High
+Player 1 wins!
+
+ Round: 530 
+Player 1 [7H,8H,6C,QD,2H] QD High
+Player 2 [6H,9D,TC,9S,7C] One pair[9]
+Player 2 wins!
+
+ Round: 531 
+Player 1 [8D,6D,4C,7C,6C] One pair[6]
+Player 2 [3C,TH,KH,JS,JH] One pair[11]
+Player 2 wins!
+
+ Round: 532 
+Player 1 [5S,3S,8S,JS,9H] JS High
+Player 2 [AS,AD,8H,7S,KD] One pair[14]
+Player 2 wins!
+
+ Round: 533 
+Player 1 [JH,7C,2C,KC,5H] KC High
+Player 2 [AS,AD,9C,9S,JS] Two pairs[14, 9]
+Player 2 wins!
+
+ Round: 534 
+Player 1 [AD,AC,2C,6S,QD] One pair[14]
+Player 2 [7C,3H,TH,KS,KD] One pair[13]
+Player 1 wins!
+
+ Round: 535 
+Player 1 [9D,JD,4H,8H,4C] One pair[4]
+Player 2 [KH,7S,TS,8C,KC] One pair[13]
+Player 2 wins!
+
+ Round: 536 
+Player 1 [3S,5S,2H,7S,6H] 7S High
+Player 2 [7D,KS,5C,6D,AD] AD High
+Player 2 wins!
+
+ Round: 537 
+Player 1 [5S,8C,9H,QS,7H] QS High
+Player 2 [7S,2H,6C,7D,TD] One pair[7]
+Player 2 wins!
+
+ Round: 538 
+Player 1 [QS,5S,TD,AC,9D] AC High
+Player 2 [KC,3D,TC,2D,4D] KC High
+Player 1 wins!
+
+ Round: 539 
+Player 1 [TD,2H,7D,JD,QD] QD High
+Player 2 [4C,7H,5D,KC,3D] KC High
+Player 2 wins!
+
+ Round: 540 
+Player 1 [4C,3H,8S,KD,QH] KD High
+Player 2 [5S,QC,9H,TC,5H] One pair[5]
+Player 2 wins!
+
+ Round: 541 
+Player 1 [9C,QD,TH,5H,TS] One pair[10]
+Player 2 [5C,9H,AH,QH,2C] AH High
+Player 1 wins!
+
+ Round: 542 
+Player 1 [4D,6S,3C,AC,6C] One pair[6]
+Player 2 [3D,2C,2H,TD,TH] Two pairs[2, 10]
+Player 2 wins!
+
+ Round: 543 
+Player 1 [AC,9C,5D,QC,4D] AC High
+Player 2 [AD,8D,6D,8C,KC] One pair[8]
+Player 2 wins!
+
+ Round: 544 
+Player 1 [AD,3C,4H,AC,8D] One pair[14]
+Player 2 [8H,7S,9S,TD,JC] Straight[#<Card:0x000000012dab7218 @face=7, @suit=0>, #<Card:0x000000012dab72e0 @face=8, @suit=1>, #<Card:0x000000012dab7150 @face=9, @suit=0>, #<Card:0x000000012dab7088 @face=10, @suit=2>, #<Card:0x000000012dab6fc0 @face=11, @suit=3>]
+Player 2 wins!
+
+ Round: 545 
+Player 1 [4H,9H,QH,JS,2D] QH High
+Player 2 [TH,TD,TC,KD,KS] KS High
+Player 2 wins!
+
+ Round: 546 
+Player 1 [5S,6S,9S,8D,TH] TH High
+Player 2 [AS,KH,5H,5C,8S] One pair[5]
+Player 2 wins!
+
+ Round: 547 
+Player 1 [JD,2S,9S,6S,5S] JD High
+Player 2 [8S,5D,7S,7H,9D] One pair[7]
+Player 2 wins!
+
+ Round: 548 
+Player 1 [5D,8C,4C,9D,AD] AD High
+Player 2 [TS,2C,7D,KD,TC] One pair[10]
+Player 2 wins!
+
+ Round: 549 
+Player 1 [8S,QS,4D,KC,5C] KC High
+Player 2 [8D,4S,KH,JD,KD] One pair[13]
+Player 2 wins!
+
+ Round: 550 
+Player 1 [AS,5C,AD,QH,7D] One pair[14]
+Player 2 [2H,9S,7H,7C,TC] One pair[7]
+Player 1 wins!
+
+ Round: 551 
+Player 1 [2S,8S,JD,KH,7S] KH High
+Player 2 [6C,6D,AD,5D,QC] One pair[6]
+Player 2 wins!
+
+ Round: 552 
+Player 1 [9H,6H,3S,8C,8H] One pair[8]
+Player 2 [AH,TC,4H,JS,TD] One pair[10]
+Player 2 wins!
+
+ Round: 553 
+Player 1 [2C,TS,4D,7H,2D] One pair[2]
+Player 2 [QC,9C,5D,TH,7C] QC High
+Player 1 wins!
+
+ Round: 554 
+Player 1 [6C,8H,QC,5D,TS] QC High
+Player 2 [JH,5C,5H,9H,4S] One pair[5]
+Player 2 wins!
+
+ Round: 555 
+Player 1 [2D,QC,7H,AS,JS] AS High
+Player 2 [8S,2H,4C,4H,8D] Two pairs[8, 4]
+Player 2 wins!
+
+ Round: 556 
+Player 1 [JS,6S,AC,KD,3D] AC High
+Player 2 [3C,4S,7H,TH,KC] KC High
+Player 1 wins!
+
+ Round: 557 
+Player 1 [QH,KH,6S,QS,5S] One pair[12]
+Player 2 [4H,3C,QD,3S,3H] Three of a kind[3]
+Player 2 wins!
+
+ Round: 558 
+Player 1 [7H,AS,KH,8C,4H] AS High
+Player 2 [9C,5S,3D,6S,TS] TS High
+Player 1 wins!
+
+ Round: 559 
+Player 1 [9C,7C,3H,5S,QD] QD High
+Player 2 [2C,3D,AD,AC,5H] One pair[14]
+Player 2 wins!
+
+ Round: 560 
+Player 1 [JH,TD,2D,4C,TS] One pair[10]
+Player 2 [3H,KH,AD,3S,7S] One pair[3]
+Player 1 wins!
+
+ Round: 561 
+Player 1 [AS,4C,5H,4D,6S] One pair[4]
+Player 2 [KD,JC,3C,6H,2D] KD High
+Player 1 wins!
+
+ Round: 562 
+Player 1 [3H,6S,8C,2D,TH] TH High
+Player 2 [4S,AH,QH,AD,5H] One pair[14]
+Player 2 wins!
+
+ Round: 563 
+Player 1 [7C,2S,9H,7H,KC] One pair[7]
+Player 2 [5C,6D,5S,3H,JC] One pair[5]
+Player 1 wins!
+
+ Round: 564 
+Player 1 [3C,TC,9C,4H,QD] QD High
+Player 2 [TD,JH,6D,9H,5S] JH High
+Player 1 wins!
+
+ Round: 565 
+Player 1 [7C,6S,5C,5D,6C] Two pairs[6, 5]
+Player 2 [4S,7H,9H,6H,AH] AH High
+Player 1 wins!
+
+ Round: 566 
+Player 1 [AD,2H,7D,KC,2C] One pair[2]
+Player 2 [4C,2S,9S,7H,3S] 9S High
+Player 1 wins!
+
+ Round: 567 
+Player 1 [TH,4C,8S,6S,3S] TH High
+Player 2 [AD,KS,AS,JH,TD] One pair[14]
+Player 2 wins!
+
+ Round: 568 
+Player 1 [5C,TD,4S,4D,AD] One pair[4]
+Player 2 [6S,5D,TC,9C,7D] TC High
+Player 1 wins!
+
+ Round: 569 
+Player 1 [8H,3S,4D,4S,5S] One pair[4]
+Player 2 [6H,5C,AC,3H,3D] One pair[3]
+Player 1 wins!
+
+ Round: 570 
+Player 1 [9H,3C,AC,4S,QS] AC High
+Player 2 [8S,9D,QH,5H,4D] QH High
+Player 1 wins!
+
+ Round: 571 
+Player 1 [JC,6C,5H,TS,AC] AC High
+Player 2 [9C,JD,8C,7C,QD] QD High
+Player 1 wins!
+
+ Round: 572 
+Player 1 [8S,8H,9C,JD,2D] One pair[8]
+Player 2 [QC,QH,6H,3C,8D] One pair[12]
+Player 2 wins!
+
+ Round: 573 
+Player 1 [KS,JS,2H,6H,5H] KS High
+Player 2 [QH,QS,3H,7C,6D] One pair[12]
+Player 2 wins!
+
+ Round: 574 
+Player 1 [TC,3H,4S,7H,QC] QC High
+Player 2 [2H,3S,8C,JS,KH] KH High
+Player 2 wins!
+
+ Round: 575 
+Player 1 [AH,8H,5S,4C,9H] AH High
+Player 2 [JD,3H,7S,JC,AC] One pair[11]
+Player 2 wins!
+
+ Round: 576 
+Player 1 [3C,2D,4C,5S,6C] Straight[#<Card:0x000000012dab4220 @face=2, @suit=2>, #<Card:0x000000012dab42e8 @face=3, @suit=3>, #<Card:0x000000012dab4158 @face=4, @suit=3>, #<Card:0x000000012dab4090 @face=5, @suit=0>, #<Card:0x000000012daaff68 @face=6, @suit=3>]
+Player 2 [4S,QS,3S,JD,3D] One pair[3]
+Player 1 wins!
+
+ Round: 577 
+Player 1 [5H,2D,TC,AH,KS] AH High
+Player 2 [6D,7H,AD,8C,6H] One pair[6]
+Player 2 wins!
+
+ Round: 578 
+Player 1 [6C,7S,3C,JD,7C] One pair[7]
+Player 2 [8H,KS,KH,AH,6D] One pair[13]
+Player 2 wins!
+
+ Round: 579 
+Player 1 [AH,7D,3H,8H,8S] One pair[8]
+Player 2 [7H,QS,5H,9D,2D] QS High
+Player 1 wins!
+
+ Round: 580 
+Player 1 [JD,AC,4H,7S,8S] AC High
+Player 2 [9S,KS,AS,9D,QH] One pair[9]
+Player 2 wins!
+
+ Round: 581 
+Player 1 [7S,2C,8S,5S,JH] JH High
+Player 2 [QS,JC,AH,KD,4C] AH High
+Player 2 wins!
+
+ Round: 582 
+Player 1 [AH,2S,9H,4H,8D] AH High
+Player 2 [TS,TD,6H,QH,JD] One pair[10]
+Player 2 wins!
+
+ Round: 583 
+Player 1 [4H,JC,3H,QS,6D] QS High
+Player 2 [7S,9C,8S,9D,8D] Two pairs[9, 8]
+Player 2 wins!
+
+ Round: 584 
+Player 1 [5H,TD,4S,9S,4C] One pair[4]
+Player 2 [8C,8D,7H,3H,3D] Two pairs[8, 3]
+Player 2 wins!
+
+ Round: 585 
+Player 1 [QS,KH,3S,2C,2S] One pair[2]
+Player 2 [3C,7S,TD,4S,QD] QD High
+Player 1 wins!
+
+ Round: 586 
+Player 1 [7C,TD,4D,5S,KH] KH High
+Player 2 [AC,AS,7H,4C,6C] One pair[14]
+Player 2 wins!
+
+ Round: 587 
+Player 1 [2S,5H,6D,JD,9H] JD High
+Player 2 [QS,8S,2C,2H,TD] One pair[2]
+Player 2 wins!
+
+ Round: 588 
+Player 1 [2S,TS,6H,9H,7S] TS High
+Player 2 [4H,JC,4C,5D,5S] Two pairs[4, 5]
+Player 2 wins!
+
+ Round: 589 
+Player 1 [2C,5H,7D,4H,3S] 7D High
+Player 2 [QH,JC,JS,6D,8H] One pair[11]
+Player 2 wins!
+
+ Round: 590 
+Player 1 [4C,QH,7C,QD,3S] One pair[12]
+Player 2 [AD,TH,8S,5S,TS] One pair[10]
+Player 1 wins!
+
+ Round: 591 
+Player 1 [9H,TC,2S,TD,JC] One pair[10]
+Player 2 [7D,3S,3D,TH,QH] One pair[3]
+Player 1 wins!
+
+ Round: 592 
+Player 1 [7D,4C,8S,5C,JH] JH High
+Player 2 [8H,6S,3S,KC,3H] One pair[3]
+Player 2 wins!
+
+ Round: 593 
+Player 1 [JC,3H,KH,TC,QH] KH High
+Player 2 [TH,6H,2C,AC,5H] AC High
+Player 2 wins!
+
+ Round: 594 
+Player 1 [QS,2H,9D,2C,AS] One pair[2]
+Player 2 [6S,6C,2S,8C,8S] Two pairs[6, 8]
+Player 2 wins!
+
+ Round: 595 
+Player 1 [9H,7D,QC,TH,4H] QC High
+Player 2 [KD,QS,AC,7S,3C] AC High
+Player 2 wins!
+
+ Round: 596 
+Player 1 [4D,JH,6S,5S,8H] JH High
+Player 2 [KS,9S,QC,3S,AS] AS High
+Player 2 wins!
+
+ Round: 597 
+Player 1 [JD,2D,6S,7S,TC] JD High
+Player 2 [9H,KC,3H,7D,KD] One pair[13]
+Player 2 wins!
+
+ Round: 598 
+Player 1 [2H,KH,7C,4D,4S] One pair[4]
+Player 2 [3H,JS,QD,7D,KC] KC High
+Player 1 wins!
+
+ Round: 599 
+Player 1 [4C,JC,AS,9D,3C] AS High
+Player 2 [JS,6C,8H,QD,4D] QD High
+Player 1 wins!
+
+ Round: 600 
+Player 1 [AH,JS,3S,6C,4C] AH High
+Player 2 [3D,JH,6D,9C,9H] One pair[9]
+Player 2 wins!
+
+ Round: 601 
+Player 1 [9H,2D,8C,7H,5S] 9H High
+Player 2 [KS,6H,9C,2S,TC] KS High
+Player 2 wins!
+
+ Round: 602 
+Player 1 [6C,8C,AD,7H,6H] One pair[6]
+Player 2 [3D,KH,AS,5D,TH] AS High
+Player 1 wins!
+
+ Round: 603 
+Player 1 [KS,8C,3S,TS,8S] One pair[8]
+Player 2 [4D,5S,9S,6C,4H] One pair[4]
+Player 1 wins!
+
+ Round: 604 
+Player 1 [9H,4S,4H,5C,7D] One pair[4]
+Player 2 [KC,2D,2H,9D,JH] One pair[2]
+Player 1 wins!
+
+ Round: 605 
+Player 1 [5C,JS,TC,9D,9H] One pair[9]
+Player 2 [5H,7S,KH,JC,6S] KH High
+Player 1 wins!
+
+ Round: 606 
+Player 1 [7C,9H,8H,4D,JC] JC High
+Player 2 [KH,JD,2H,TD,TC] One pair[10]
+Player 2 wins!
+
+ Round: 607 
+Player 1 [8H,6C,2H,2C,KH] One pair[2]
+Player 2 [6H,9D,QS,QH,5H] One pair[12]
+Player 2 wins!
+
+ Round: 608 
+Player 1 [AC,7D,2S,3D,QD] AC High
+Player 2 [JC,2D,8D,JD,JH] Three of a kind[11]
+Player 2 wins!
+
+ Round: 609 
+Player 1 [2H,JC,2D,7H,2C] Three of a kind[2]
+Player 2 [3C,8D,KD,TD,4H] KD High
+Player 1 wins!
+
+ Round: 610 
+Player 1 [3S,4H,6D,8D,TS] TS High
+Player 2 [3H,TD,3D,6H,TH] Two pairs[3, 10]
+Player 2 wins!
+
+ Round: 611 
+Player 1 [JH,JC,3S,AC,QH] One pair[11]
+Player 2 [9H,7H,8S,QC,2C] QC High
+Player 1 wins!
+
+ Round: 612 
+Player 1 [7H,TD,QS,4S,8S] QS High
+Player 2 [9C,2S,5D,4D,2H] One pair[2]
+Player 2 wins!
+
+ Round: 613 
+Player 1 [3D,TS,3H,2S,QC] One pair[3]
+Player 2 [8H,6H,KC,JC,KS] One pair[13]
+Player 2 wins!
+
+ Round: 614 
+Player 1 [5D,JD,7D,TC,8C] JD High
+Player 2 [6C,9S,3D,8D,AC] AC High
+Player 2 wins!
+
+ Round: 615 
+Player 1 [8H,6H,JH,6C,5D] One pair[6]
+Player 2 [8D,8S,4H,AD,2C] One pair[8]
+Player 2 wins!
+
+ Round: 616 
+Player 1 [9D,4H,2D,2C,3S] One pair[2]
+Player 2 [TS,AS,TC,3C,5D] One pair[10]
+Player 2 wins!
+
+ Round: 617 
+Player 1 [4D,TH,5H,KS,QS] KS High
+Player 2 [6C,4S,2H,3D,AD] AD High
+Player 2 wins!
+
+ Round: 618 
+Player 1 [5C,KC,6H,2C,5S] One pair[5]
+Player 2 [3C,4D,2D,9H,9S] One pair[9]
+Player 2 wins!
+
+ Round: 619 
+Player 1 [JD,4C,3H,TH,QH] QH High
+Player 2 [9H,5S,AH,8S,AC] One pair[14]
+Player 2 wins!
+
+ Round: 620 
+Player 1 [7D,9S,6S,2H,TD] TD High
+Player 2 [9C,4H,8H,QS,4C] One pair[4]
+Player 2 wins!
+
+ Round: 621 
+Player 1 [3C,6H,5D,4H,8C] 8C High
+Player 2 [9C,KC,6S,QD,QS] One pair[12]
+Player 2 wins!
+
+ Round: 622 
+Player 1 [3S,9H,KD,TC,2D] KD High
+Player 2 [JS,8C,6S,4H,4S] One pair[4]
+Player 2 wins!
+
+ Round: 623 
+Player 1 [2S,4C,8S,QS,6H] QS High
+Player 2 [KH,3H,TH,8C,5D] KH High
+Player 2 wins!
+
+ Round: 624 
+Player 1 [2C,KH,5S,3S,7S] KH High
+Player 2 [7H,6C,9D,QD,8D] QD High
+Player 1 wins!
+
+ Round: 625 
+Player 1 [8H,KS,AC,2D,KH] One pair[13]
+Player 2 [TS,6C,JS,KC,7H] KC High
+Player 1 wins!
+
+ Round: 626 
+Player 1 [9C,KS,5C,TD,QC] KS High
+Player 2 [AH,6C,5H,9S,7C] AH High
+Player 2 wins!
+
+ Round: 627 
+Player 1 [5D,4D,3H,4H,6S] One pair[4]
+Player 2 [7C,7S,AH,QD,TD] One pair[7]
+Player 2 wins!
+
+ Round: 628 
+Player 1 [2H,7D,QC,6S,TC] QC High
+Player 2 [TS,AH,7S,9D,3H] AH High
+Player 2 wins!
+
+ Round: 629 
+Player 1 [TH,5H,QD,9S,KS] KS High
+Player 2 [7S,7C,6H,8C,TD] One pair[7]
+Player 2 wins!
+
+ Round: 630 
+Player 1 [TH,2D,4D,QC,5C] QC High
+Player 2 [7D,JD,AH,9C,4H] AH High
+Player 2 wins!
+
+ Round: 631 
+Player 1 [4H,3H,AH,8D,6H] AH High
+Player 2 [QC,QH,9H,2H,2C] Two pairs[12, 2]
+Player 2 wins!
+
+ Round: 632 
+Player 1 [2D,AD,4C,TS,6H] AD High
+Player 2 [7S,TH,4H,QS,TD] One pair[10]
+Player 2 wins!
+
+ Round: 633 
+Player 1 [3C,KD,2H,3H,QS] One pair[3]
+Player 2 [JD,TC,QC,5D,8H] QC High
+Player 1 wins!
+
+ Round: 634 
+Player 1 [KS,JC,QD,TH,9S] Straight[#<Card:0x000000012d917660 @face=9, @suit=0>, #<Card:0x000000012d91c0e8 @face=10, @suit=1>, #<Card:0x000000012d9275b0 @face=11, @suit=3>, #<Card:0x000000012d91c818 @face=12, @suit=2>, #<Card:0x000000012d9287d0 @face=13, @suit=0>]
+Player 2 [KD,8D,8C,2D,9C] One pair[8]
+Player 1 wins!
+
+ Round: 635 
+Player 1 [3C,QD,KD,6D,4D] KD High
+Player 2 [8D,AH,AD,QC,8S] Two pairs[8, 14]
+Player 2 wins!
+
+ Round: 636 
+Player 1 [8H,3S,9D,2S,3H] One pair[3]
+Player 2 [KS,6H,4C,7C,KC] One pair[13]
+Player 2 wins!
+
+ Round: 637 
+Player 1 [TH,9S,5C,3D,7D] TH High
+Player 2 [6H,AC,7S,4D,2C] AC High
+Player 2 wins!
+
+ Round: 638 
+Player 1 [5C,3D,JD,4D,2D] JD High
+Player 2 [6D,5H,9H,4C,KH] KH High
+Player 2 wins!
+
+ Round: 639 
+Player 1 [AS,7H,TD,6C,2H] AS High
+Player 2 [3D,QD,KS,4C,4S] One pair[4]
+Player 2 wins!
+
+ Round: 640 
+Player 1 [JC,3C,AC,7C,JD] One pair[11]
+Player 2 [JS,8H,9S,QC,5D] QC High
+Player 1 wins!
+
+ Round: 641 
+Player 1 [JD,6S,5S,2H,AS] AS High
+Player 2 [8C,7D,5H,JH,3D] JH High
+Player 1 wins!
+
+ Round: 642 
+Player 1 [8D,TC,5S,9S,8S] One pair[8]
+Player 2 [3H,JC,5H,7S,AS] AS High
+Player 1 wins!
+
+ Round: 643 
+Player 1 [5C,TD,3D,7D,4H] TD High
+Player 2 [8D,7H,4D,5D,JS] JS High
+Player 2 wins!
+
+ Round: 644 
+Player 1 [QS,9C,KS,TD,2S] KS High
+Player 2 [8S,5C,2H,4H,AS] AS High
+Player 2 wins!
+
+ Round: 645 
+Player 1 [TH,7S,4H,7D,3H] One pair[7]
+Player 2 [JD,KD,5D,2S,KC] One pair[13]
+Player 2 wins!
+
+ Round: 646 
+Player 1 [JD,7H,4S,8H,4C] One pair[4]
+Player 2 [JS,6H,QH,5S,4H] QH High
+Player 1 wins!
+
+ Round: 647 
+Player 1 [2C,QS,8C,5S,3H] QS High
+Player 2 [QC,2S,6C,QD,AD] One pair[12]
+Player 2 wins!
+
+ Round: 648 
+Player 1 [8C,3D,JD,TC,4H] JD High
+Player 2 [2H,AD,5S,AC,2S] Two pairs[2, 14]
+Player 2 wins!
+
+ Round: 649 
+Player 1 [5D,2C,JS,2D,AD] One pair[2]
+Player 2 [9D,3D,4C,4S,JH] One pair[4]
+Player 2 wins!
+
+ Round: 650 
+Player 1 [8D,5H,5D,6H,7S] One pair[5]
+Player 2 [4D,KS,9D,TD,JD] KS High
+Player 1 wins!
+
+ Round: 651 
+Player 1 [3D,6D,9C,2S,AS] AS High
+Player 2 [7D,5S,5C,8H,JD] One pair[5]
+Player 2 wins!
+
+ Round: 652 
+Player 1 [7C,8S,3S,6S,5H] 8S High
+Player 2 [JD,TC,AD,7H,7S] One pair[7]
+Player 2 wins!
+
+ Round: 653 
+Player 1 [2S,9D,TS,4D,AC] AC High
+Player 2 [8D,6C,QD,JD,3H] QD High
+Player 1 wins!
+
+ Round: 654 
+Player 1 [9S,KH,2C,3C,AC] AC High
+Player 2 [3D,5H,6H,8D,5D] One pair[5]
+Player 2 wins!
+
+ Round: 655 
+Player 1 [KS,3D,2D,6S,AS] AS High
+Player 2 [4C,2S,7C,7H,KH] One pair[7]
+Player 2 wins!
+
+ Round: 656 
+Player 1 [AC,2H,3S,JC,5C] AC High
+Player 2 [QH,4D,2D,5H,7S] QH High
+Player 1 wins!
+
+ Round: 657 
+Player 1 [TS,AS,JD,8C,6H] AS High
+Player 2 [JC,8S,5S,2C,5D] One pair[5]
+Player 2 wins!
+
+ Round: 658 
+Player 1 [7S,QH,7H,6C,QC] Two pairs[7, 12]
+Player 2 [8H,2D,7C,JD,2S] One pair[2]
+Player 1 wins!
+
+ Round: 659 
+Player 1 [2C,QD,2S,2H,JC] Three of a kind[2]
+Player 2 [9C,5D,2D,JD,JH] One pair[11]
+Player 1 wins!
+
+ Round: 660 
+Player 1 [7C,5C,9C,8S,7D] One pair[7]
+Player 2 [6D,8D,6C,9S,JH] One pair[6]
+Player 1 wins!
+
+ Round: 661 
+Player 1 [2C,AD,6S,5H,3S] AD High
+Player 2 [KS,7S,9D,KH,4C] One pair[13]
+Player 2 wins!
+
+ Round: 662 
+Player 1 [7H,6C,2C,5C,TH] TH High
+Player 2 [9D,8D,3S,QC,AH] AH High
+Player 2 wins!
+
+ Round: 663 
+Player 1 [5S,KC,6H,TC,5H] One pair[5]
+Player 2 [8S,TH,6D,3C,AH] AH High
+Player 1 wins!
+
+ Round: 664 
+Player 1 [9C,KD,4H,AD,TD] AD High
+Player 2 [9S,4S,7D,6H,5D] 9S High
+Player 1 wins!
+
+ Round: 665 
+Player 1 [7H,5C,5H,6D,AS] One pair[5]
+Player 2 [4C,KD,KH,4H,9D] Two pairs[4, 13]
+Player 2 wins!
+
+ Round: 666 
+Player 1 [3C,2S,5C,6C,JD] JD High
+Player 2 [QS,2H,9D,7D,3H] QS High
+Player 2 wins!
+
+ Round: 667 
+Player 1 [AC,2S,6S,7S,JS] AC High
+Player 2 [QD,5C,QS,6H,AD] One pair[12]
+Player 2 wins!
+
+ Round: 668 
+Player 1 [5H,TH,QC,7H,TC] One pair[10]
+Player 2 [3S,7C,6D,KC,3D] One pair[3]
+Player 1 wins!
+
+ Round: 669 
+Player 1 [4H,3D,QC,9S,8H] QC High
+Player 2 [2C,3S,JC,KS,5C] KS High
+Player 2 wins!
+
+ Round: 670 
+Player 1 [4S,6S,2C,6H,8S] One pair[6]
+Player 2 [3S,3D,9H,3H,JS] Three of a kind[3]
+Player 2 wins!
+
+ Round: 671 
+Player 1 [4S,8C,4D,2D,8H] Two pairs[4, 8]
+Player 2 [9H,7D,9D,AH,TS] One pair[9]
+Player 1 wins!
+
+ Round: 672 
+Player 1 [9S,2C,9H,4C,8D] One pair[9]
+Player 2 [AS,7D,3D,6D,5S] AS High
+Player 1 wins!
+
+ Round: 673 
+Player 1 [6S,4C,7H,8C,3H] 8C High
+Player 2 [5H,JC,AH,9D,9C] One pair[9]
+Player 2 wins!
+
+ Round: 674 
+Player 1 [2S,7C,5S,JD,8C] JD High
+Player 2 [3S,3D,4D,7D,6S] One pair[3]
+Player 2 wins!
+
+ Round: 675 
+Player 1 [3C,KC,4S,5D,7D] KC High
+Player 2 [3D,JD,7H,3H,4H] One pair[3]
+Player 2 wins!
+
+ Round: 676 
+Player 1 [9C,9H,4H,4D,TH] Two pairs[9, 4]
+Player 2 [6D,QD,8S,9S,7S] QD High
+Player 1 wins!
+
+ Round: 677 
+Player 1 [2H,AC,8S,4S,AD] One pair[14]
+Player 2 [8C,2C,AH,7D,TC] AH High
+Player 1 wins!
+
+ Round: 678 
+Player 1 [TS,9H,3C,AD,KS] AD High
+Player 2 [TC,3D,8C,8H,JD] One pair[8]
+Player 2 wins!
+
+ Round: 679 
+Player 1 [QC,8D,2C,3C,7D] QC High
+Player 2 [7C,JD,9H,9C,6C] One pair[9]
+Player 2 wins!
+
+ Round: 680 
+Player 1 [AH,6S,JS,JH,5D] One pair[11]
+Player 2 [AS,QC,2C,JD,TD] AS High
+Player 1 wins!
+
+ Round: 681 
+Player 1 [9H,KD,2H,5D,2D] One pair[2]
+Player 2 [3S,7D,TC,AH,TS] One pair[10]
+Player 2 wins!
+
+ Round: 682 
+Player 1 [TD,8H,AS,5D,AH] One pair[14]
+Player 2 [QC,AC,6S,TC,5H] AC High
+Player 1 wins!
+
+ Round: 683 
+Player 1 [KS,4S,7H,4D,8D] One pair[4]
+Player 2 [9C,TC,2H,6H,3H] TC High
+Player 1 wins!
+
+ Round: 684 
+Player 1 [3H,KD,4S,QD,QH] One pair[12]
+Player 2 [3D,8H,8C,TD,7S] One pair[8]
+Player 1 wins!
+
+ Round: 685 
+Player 1 [8S,JD,TC,AH,JS] One pair[11]
+Player 2 [QS,2D,KH,KS,4D] One pair[13]
+Player 2 wins!
+
+ Round: 686 
+Player 1 [3C,AD,JC,KD,JS] One pair[11]
+Player 2 [KH,4S,TH,9H,2C] KH High
+Player 1 wins!
+
+ Round: 687 
+Player 1 [QC,5S,JS,9S,KS] KS High
+Player 2 [AS,7C,QD,2S,JD] AS High
+Player 2 wins!
+
+ Round: 688 
+Player 1 [KC,5S,QS,3S,2D] KC High
+Player 2 [AC,5D,9H,8H,KS] AC High
+Player 2 wins!
+
+ Round: 689 
+Player 1 [6H,9C,TC,AD,2C] AD High
+Player 2 [6D,5S,JD,6C,7C] One pair[6]
+Player 2 wins!
+
+ Round: 690 
+Player 1 [QS,KH,TD,QD,2C] One pair[12]
+Player 2 [3H,8S,2S,QC,AH] AH High
+Player 1 wins!
+
+ Round: 691 
+Player 1 [9D,9H,JH,TC,QH] One pair[9]
+Player 2 [3C,2S,JS,5C,7H] JS High
+Player 1 wins!
+
+ Round: 692 
+Player 1 [6C,3S,3D,2S,4S] One pair[3]
+Player 2 [QD,2D,TH,5D,2C] One pair[2]
+Player 1 wins!
+
+ Round: 693 
+Player 1 [2D,6H,6D,2S,JC] Two pairs[2, 6]
+Player 2 [QH,AS,7H,4H,KH] AS High
+Player 1 wins!
+
+ Round: 694 
+Player 1 [5H,6S,KS,AD,TC] AD High
+Player 2 [TS,7C,AC,4S,4H] One pair[4]
+Player 2 wins!
+
+ Round: 695 
+Player 1 [AD,3C,4H,QS,8C] AD High
+Player 2 [9D,KS,2H,2D,4D] One pair[2]
+Player 2 wins!
+
+ Round: 696 
+Player 1 [4S,9D,6C,6D,9C] Two pairs[9, 6]
+Player 2 [AC,8D,3H,7H,KD] AC High
+Player 1 wins!
+
+ Round: 697 
+Player 1 [JC,AH,6C,TS,JD] One pair[11]
+Player 2 [6D,AD,3S,5D,QD] AD High
+Player 1 wins!
+
+ Round: 698 
+Player 1 [JC,JH,JD,3S,7S] Three of a kind[11]
+Player 2 [8S,JS,QC,3H,4S] QC High
+Player 1 wins!
+
+ Round: 699 
+Player 1 [JD,TH,5C,2C,AD] AD High
+Player 2 [JS,7H,9S,2H,7S] One pair[7]
+Player 2 wins!
+
+ Round: 700 
+Player 1 [8D,3S,JH,4D,QC] QC High
+Player 2 [AS,JD,2C,KC,6H] AS High
+Player 2 wins!
+
+ Round: 701 
+Player 1 [2C,AC,5H,KD,5S] One pair[5]
+Player 2 [7H,QD,JH,AH,2D] AH High
+Player 1 wins!
+
+ Round: 702 
+Player 1 [JC,QH,8D,8S,TC] One pair[8]
+Player 2 [5H,5C,AH,8C,6C] One pair[5]
+Player 1 wins!
+
+ Round: 703 
+Player 1 [3H,JS,8S,QD,JH] One pair[11]
+Player 2 [3C,4H,6D,5C,3S] One pair[3]
+Player 1 wins!
+
+ Round: 704 
+Player 1 [6D,4S,4C,AH,5H] One pair[4]
+Player 2 [5S,3H,JD,7C,8D] JD High
+Player 1 wins!
+
+ Round: 705 
+Player 1 [8H,AH,2H,3H,JS] AH High
+Player 2 [3C,7D,QC,4H,KD] KD High
+Player 1 wins!
+
+ Round: 706 
+Player 1 [6S,2H,KD,5H,8H] KD High
+Player 2 [2D,3C,8S,7S,QD] QD High
+Player 1 wins!
+
+ Round: 707 
+Player 1 [2S,7S,KC,QC,AH] AH High
+Player 2 [TC,QS,6D,4C,8D] QS High
+Player 1 wins!
+
+ Round: 708 
+Player 1 [5S,9H,2C,3S,QD] QD High
+Player 2 [7S,6C,2H,7C,9D] One pair[7]
+Player 2 wins!
+
+ Round: 709 
+Player 1 [3C,6C,5C,5S,JD] One pair[5]
+Player 2 [JC,KS,3S,5D,TS] KS High
+Player 1 wins!
+
+ Round: 710 
+Player 1 [7C,KS,6S,5S,2S] KS High
+Player 2 [2D,TC,2H,5H,QS] One pair[2]
+Player 2 wins!
+
+ Round: 711 
+Player 1 [AS,7H,6S,TS,5H] AS High
+Player 2 [9S,9D,3C,KD,2H] One pair[9]
+Player 2 wins!
+
+ Round: 712 
+Player 1 [4S,JS,QS,3S,4H] One pair[4]
+Player 2 [7C,2S,AC,6S,9D] AC High
+Player 1 wins!
+
+ Round: 713 
+Player 1 [8C,JH,2H,5H,7C] JH High
+Player 2 [5D,QH,QS,KH,QC] Three of a kind[12]
+Player 2 wins!
+
+ Round: 714 
+Player 1 [3S,TD,3H,7C,KC] One pair[3]
+Player 2 [8D,5H,8S,KH,8C] Three of a kind[8]
+Player 2 wins!
+
+ Round: 715 
+Player 1 [4H,KH,JD,TS,3C] KH High
+Player 2 [7H,AS,QC,JS,5S] AS High
+Player 2 wins!
+
+ Round: 716 
+Player 1 [AH,9D,2C,8D,4D] AH High
+Player 2 [2D,6H,6C,KC,6S] Three of a kind[6]
+Player 2 wins!
+
+ Round: 717 
+Player 1 [2S,6H,9D,3S,7H] 9D High
+Player 2 [4D,KH,8H,KD,3D] One pair[13]
+Player 2 wins!
+
+ Round: 718 
+Player 1 [9C,TC,AC,JH,KH] AC High
+Player 2 [4D,JD,5H,TD,3S] JD High
+Player 1 wins!
+
+ Round: 719 
+Player 1 [7S,4H,9D,AS,4C] One pair[4]
+Player 2 [7D,QS,9S,2S,KH] KH High
+Player 1 wins!
+
+ Round: 720 
+Player 1 [3S,8D,8S,KS,8C] Three of a kind[8]
+Player 2 [JC,5C,KH,2H,5D] One pair[5]
+Player 1 wins!
+
+ Round: 721 
+Player 1 [8S,QH,2C,4D,KC] KC High
+Player 2 [JS,QC,9D,AC,6H] AC High
+Player 2 wins!
+
+ Round: 722 
+Player 1 [8S,8C,7C,JS,JD] Two pairs[8, 11]
+Player 2 [6S,4C,9C,AC,4S] One pair[4]
+Player 1 wins!
+
+ Round: 723 
+Player 1 [QH,5D,2C,7D,JC] QH High
+Player 2 [8S,2D,JS,JH,4C] One pair[11]
+Player 2 wins!
+
+ Round: 724 
+Player 1 [JS,4C,7S,TS,JH] One pair[11]
+Player 2 [KC,KH,5H,QD,4S] One pair[13]
+Player 2 wins!
+
+ Round: 725 
+Player 1 [QD,8C,8D,2D,6S] One pair[8]
+Player 2 [TD,9D,AC,QH,5S] AC High
+Player 1 wins!
+
+ Round: 726 
+Player 1 [QH,QC,JS,3D,3C] Two pairs[12, 3]
+Player 2 [5C,4H,KH,8S,7H] KH High
+Player 1 wins!
+
+ Round: 727 
+Player 1 [7C,2C,5S,JC,8S] JC High
+Player 2 [3H,QC,5D,2H,KC] KC High
+Player 2 wins!
+
+ Round: 728 
+Player 1 [5S,8D,KD,6H,4H] KD High
+Player 2 [QD,QH,6D,AH,3D] One pair[12]
+Player 2 wins!
+
+ Round: 729 
+Player 1 [7S,KS,6C,2S,4D] KS High
+Player 2 [AC,QS,5H,TS,JD] AC High
+Player 2 wins!
+
+ Round: 730 
+Player 1 [7C,2D,TC,5D,QS] QS High
+Player 2 [AC,JS,QC,6C,KC] AC High
+Player 2 wins!
+
+ Round: 731 
+Player 1 [2C,KS,4D,3H,TS] KS High
+Player 2 [8S,AD,4H,7S,9S] AD High
+Player 2 wins!
+
+ Round: 732 
+Player 1 [QD,9H,QH,5H,4H] One pair[12]
+Player 2 [4D,KH,3S,JC,AD] AD High
+Player 1 wins!
+
+ Round: 733 
+Player 1 [4D,AC,KC,8D,6D] AC High
+Player 2 [4C,2D,KH,2C,JD] One pair[2]
+Player 2 wins!
+
+ Round: 734 
+Player 1 [2C,9H,2D,AH,3H] One pair[2]
+Player 2 [6D,9C,7D,TC,KS] KS High
+Player 1 wins!
+
+ Round: 735 
+Player 1 [8C,3H,KD,7C,5C] KD High
+Player 2 [2S,4S,5H,AS,AH] One pair[14]
+Player 2 wins!
+
+ Round: 736 
+Player 1 [TH,JD,4H,KD,3H] KD High
+Player 2 [TC,5C,3S,AC,KH] AC High
+Player 2 wins!
+
+ Round: 737 
+Player 1 [6D,7H,AH,7S,QC] One pair[7]
+Player 2 [6H,2D,TD,JD,AS] AS High
+Player 1 wins!
+
+ Round: 738 
+Player 1 [JH,5D,7H,TC,9S] JH High
+Player 2 [7D,JC,AS,5S,KH] AS High
+Player 2 wins!
+
+ Round: 739 
+Player 1 [2H,8C,AD,TH,6H] AD High
+Player 2 [QD,KD,9H,6S,6C] One pair[6]
+Player 2 wins!
+
+ Round: 740 
+Player 1 [QH,KC,9D,4D,3S] KC High
+Player 2 [JS,JH,4H,2C,9H] One pair[11]
+Player 2 wins!
+
+ Round: 741 
+Player 1 [TC,7H,KH,4H,JC] KH High
+Player 2 [7D,9S,3H,QS,7S] One pair[7]
+Player 2 wins!
+
+ Round: 742 
+Player 1 [AD,7D,JH,6C,7H] One pair[7]
+Player 2 [4H,3S,3H,4D,QH] Two pairs[4, 3]
+Player 2 wins!
+
+ Round: 743 
+Player 1 [JD,2H,5C,AS,6C] AS High
+Player 2 [QC,4D,3C,TC,JH] QC High
+Player 1 wins!
+
+ Round: 744 
+Player 1 [AC,JD,3H,6H,4C] AC High
+Player 2 [JC,AD,7D,7H,9H] One pair[7]
+Player 2 wins!
+
+ Round: 745 
+Player 1 [4H,TC,TS,2C,8C] One pair[10]
+Player 2 [6S,KS,2H,JD,9S] KS High
+Player 1 wins!
+
+ Round: 746 
+Player 1 [4C,3H,QS,QC,9S] One pair[12]
+Player 2 [9H,6D,KC,9D,9C] Three of a kind[9]
+Player 2 wins!
+
+ Round: 747 
+Player 1 [5C,AD,8C,2C,QH] AD High
+Player 2 [TH,QD,JC,8D,8H] One pair[8]
+Player 2 wins!
+
+ Round: 748 
+Player 1 [QC,2C,2S,QD,9C] Two pairs[12, 2]
+Player 2 [4D,3S,8D,JH,QS] QS High
+Player 1 wins!
+
+ Round: 749 
+Player 1 [9D,3S,2C,7S,7C] One pair[7]
+Player 2 [JC,TD,3C,TC,9H] One pair[10]
+Player 2 wins!
+
+ Round: 750 
+Player 1 [3C,TS,8H,5C,4C] TS High
+Player 2 [2C,6S,8D,7C,4H] 8D High
+Player 1 wins!
+
+ Round: 751 
+Player 1 [KS,7H,2H,TC,4H] KS High
+Player 2 [2C,3S,AS,AH,QS] One pair[14]
+Player 2 wins!
+
+ Round: 752 
+Player 1 [8C,2D,2H,2C,4S] Three of a kind[2]
+Player 2 [4C,6S,7D,5S,3S] Straight[#<Card:0x000000012d959fd8 @face=3, @suit=0>, #<Card:0x000000012d95a5a0 @face=4, @suit=3>, #<Card:0x000000012d95a140 @face=5, @suit=0>, #<Card:0x000000012d95a3e8 @face=6, @suit=0>, #<Card:0x000000012d95a2a8 @face=7, @suit=2>]
+Player 2 wins!
+
+ Round: 753 
+Player 1 [TH,QC,5D,TD,3C] One pair[10]
+Player 2 [QS,KD,KC,KS,AS] Three of a kind[13]
+Player 2 wins!
+
+ Round: 754 
+Player 1 [4D,AH,KD,9H,KS] One pair[13]
+Player 2 [5C,4C,6H,JC,7S] JC High
+Player 1 wins!
+
+ Round: 755 
+Player 1 [KC,4H,5C,QS,TC] KC High
+Player 2 [2H,JC,9S,AH,QH] AH High
+Player 2 wins!
+
+ Round: 756 
+Player 1 [4S,9H,3H,5H,3C] One pair[3]
+Player 2 [QD,2H,QC,JH,8H] One pair[12]
+Player 2 wins!
+
+ Round: 757 
+Player 1 [5D,AS,7H,2C,3D] AS High
+Player 2 [JH,6H,4C,6S,7D] One pair[6]
+Player 2 wins!
+
+ Round: 758 
+Player 1 [9C,JD,9H,AH,JS] Two pairs[9, 11]
+Player 2 [8S,QH,3H,KS,8H] One pair[8]
+Player 1 wins!
+
+ Round: 759 
+Player 1 [3S,AC,QC,TS,4D] AC High
+Player 2 [AD,3D,AH,8S,9H] One pair[14]
+Player 2 wins!
+
+ Round: 760 
+Player 1 [7H,3H,QS,9C,9S] One pair[9]
+Player 2 [5H,JH,JS,AH,AC] Two pairs[11, 14]
+Player 2 wins!
+
+ Round: 761 
+Player 1 [8D,3C,JD,2H,AC] AC High
+Player 2 [9C,7H,5S,4D,8H] 9C High
+Player 1 wins!
+
+ Round: 762 
+Player 1 [7C,JH,9H,6C,JS] One pair[11]
+Player 2 [9S,7H,8C,9D,4H] One pair[9]
+Player 1 wins!
+
+ Round: 763 
+Player 1 [2D,AS,9S,6H,4D] AS High
+Player 2 [JS,JH,9H,AD,QD] One pair[11]
+Player 2 wins!
+
+ Round: 764 
+Player 1 [6H,7S,JH,KH,AH] AH High
+Player 2 [7H,TD,5S,6S,2C] TD High
+Player 1 wins!
+
+ Round: 765 
+Player 1 [8H,JH,6S,5H,5S] One pair[5]
+Player 2 [9D,TC,4C,QC,9S] One pair[9]
+Player 2 wins!
+
+ Round: 766 
+Player 1 [7D,2C,KD,3H,5H] KD High
+Player 2 [AS,QD,7H,JS,4D] AS High
+Player 2 wins!
+
+ Round: 767 
+Player 1 [TS,QH,6C,8H,TH] One pair[10]
+Player 2 [5H,3C,3H,9C,9D] Two pairs[3, 9]
+Player 2 wins!
+
+ Round: 768 
+Player 1 [AD,KH,JS,5D,3H] AD High
+Player 2 [AS,AC,9S,5C,KC] One pair[14]
+Player 2 wins!
+
+ Round: 769 
+Player 1 [2C,KH,8C,JC,QS] KH High
+Player 2 [6D,AH,2D,KC,TC] AH High
+Player 2 wins!
+
+ Round: 770 
+Player 1 [9D,3H,2S,7C,4D] 9D High
+Player 2 [6D,KH,KS,8D,7D] One pair[13]
+Player 2 wins!
+
+ Round: 771 
+Player 1 [9H,2S,TC,JH,AC] AC High
+Player 2 [QC,3H,5S,3S,8H] One pair[3]
+Player 2 wins!
+
+ Round: 772 
+Player 1 [3S,AS,KD,8H,4C] AS High
+Player 2 [3H,7C,JH,QH,TS] QH High
+Player 1 wins!
+
+ Round: 773 
+Player 1 [7S,6D,7H,9D,JH] One pair[7]
+Player 2 [4C,3D,3S,6C,AS] One pair[3]
+Player 1 wins!
+
+ Round: 774 
+Player 1 [4S,2H,2C,4C,8S] Two pairs[4, 2]
+Player 2 [5H,KC,8C,QC,QD] One pair[12]
+Player 2 wins!
+
+ Round: 775 
+Player 1 [3H,3S,6C,QS,QC] Two pairs[3, 12]
+Player 2 [2D,6S,5D,2C,9D] One pair[2]
+Player 1 wins!
+
+ Round: 776 
+Player 1 [2H,8D,JH,2S,3H] One pair[2]
+Player 2 [2D,6C,5C,7S,AD] AD High
+Player 1 wins!
+
+ Round: 777 
+Player 1 [9H,JS,5D,QH,8S] QH High
+Player 2 [TS,2H,7S,6S,AD] AD High
+Player 2 wins!
+
+ Round: 778 
+Player 1 [6D,QC,9S,7H,5H] QC High
+Player 2 [5C,7D,KC,JD,4H] KC High
+Player 2 wins!
+
+ Round: 779 
+Player 1 [QC,5S,9H,9C,4D] One pair[9]
+Player 2 [6S,KS,2S,4C,7C] KS High
+Player 1 wins!
+
+ Round: 780 
+Player 1 [9H,7C,4H,8D,3S] 9H High
+Player 2 [6H,5C,8H,JS,7S] JS High
+Player 2 wins!
+
+ Round: 781 
+Player 1 [2D,6H,JS,TD,4H] JS High
+Player 2 [4D,JC,TH,5H,KC] KC High
+Player 2 wins!
+
+ Round: 782 
+Player 1 [AC,7C,8D,TH,3H] AC High
+Player 2 [9S,2D,4C,KC,4D] One pair[4]
+Player 2 wins!
+
+ Round: 783 
+Player 1 [KD,QS,9C,7S,3D] KD High
+Player 2 [KS,AD,TS,4C,4H] One pair[4]
+Player 2 wins!
+
+ Round: 784 
+Player 1 [QH,9C,8H,2S,7D] QH High
+Player 2 [KS,7H,5D,KD,4C] One pair[13]
+Player 2 wins!
+
+ Round: 785 
+Player 1 [9C,2S,2H,JC,6S] One pair[2]
+Player 2 [6C,TC,QC,JH,5C] QC High
+Player 1 wins!
+
+ Round: 786 
+Player 1 [7S,AC,8H,KC,8S] One pair[8]
+Player 2 [6H,QS,JC,3D,6S] One pair[6]
+Player 1 wins!
+
+ Round: 787 
+Player 1 [JS,2D,JH,8C,4S] One pair[11]
+Player 2 [6H,8H,6D,5D,AD] One pair[6]
+Player 1 wins!
+
+ Round: 788 
+Player 1 [6H,7D,2S,4H,9H] 9H High
+Player 2 [7C,AS,AC,8H,5S] One pair[14]
+Player 2 wins!
+
+ Round: 789 
+Player 1 [3C,JS,4S,6D,5H] JS High
+Player 2 [2S,QH,6S,9C,2C] One pair[2]
+Player 2 wins!
+
+ Round: 790 
+Player 1 [3D,5S,6S,9S,4C] 9S High
+Player 2 [QS,8D,QD,8S,TC] Two pairs[12, 8]
+Player 2 wins!
+
+ Round: 791 
+Player 1 [9C,3D,AH,9H,5S] One pair[9]
+Player 2 [2C,7D,AD,JC,3S] AD High
+Player 1 wins!
+
+ Round: 792 
+Player 1 [7H,TC,AS,3C,6S] AS High
+Player 2 [6D,7S,KH,KC,9H] One pair[13]
+Player 2 wins!
+
+ Round: 793 
+Player 1 [3S,TC,8H,6S,5H] TC High
+Player 2 [JH,8C,7D,AC,2S] AC High
+Player 2 wins!
+
+ Round: 794 
+Player 1 [QD,9D,9C,3S,JC] One pair[9]
+Player 2 [8C,KS,8H,5D,4D] One pair[8]
+Player 1 wins!
+
+ Round: 795 
+Player 1 [JS,AH,JD,6D,9D] One pair[11]
+Player 2 [8C,9H,9S,8H,3H] Two pairs[8, 9]
+Player 2 wins!
+
+ Round: 796 
+Player 1 [2D,6S,4C,4D,8S] One pair[4]
+Player 2 [AD,4S,TC,AH,9H] One pair[14]
+Player 2 wins!
+
+ Round: 797 
+Player 1 [TS,AC,QC,TH,KC] One pair[10]
+Player 2 [6D,4H,7S,8C,2H] 8C High
+Player 1 wins!
+
+ Round: 798 
+Player 1 [3C,QD,JS,9D,5S] QD High
+Player 2 [JC,AH,2H,TS,9H] AH High
+Player 2 wins!
+
+ Round: 799 
+Player 1 [3H,4D,QH,5D,9C] QH High
+Player 2 [5H,7D,4S,JC,3S] JC High
+Player 1 wins!
+
+ Round: 800 
+Player 1 [8S,TH,3H,7C,2H] TH High
+Player 2 [JD,JS,TS,AC,8D] One pair[11]
+Player 2 wins!
+
+ Round: 801 
+Player 1 [9C,2H,TD,KC,JD] KC High
+Player 2 [2S,8C,5S,AD,2C] One pair[2]
+Player 2 wins!
+
+ Round: 802 
+Player 1 [3D,KD,7C,5H,4D] KD High
+Player 2 [QH,QD,TC,6H,7D] One pair[12]
+Player 2 wins!
+
+ Round: 803 
+Player 1 [7H,2C,KC,5S,KD] One pair[13]
+Player 2 [6H,AH,QC,7S,QH] One pair[12]
+Player 1 wins!
+
+ Round: 804 
+Player 1 [6H,5C,AC,5H,2C] One pair[5]
+Player 2 [9C,2D,7C,TD,2S] One pair[2]
+Player 1 wins!
+
+ Round: 805 
+Player 1 [4D,9D,AH,3D,7C] AH High
+Player 2 [JD,4H,8C,4C,KS] One pair[4]
+Player 2 wins!
+
+ Round: 806 
+Player 1 [TH,3C,JS,QH,8H] QH High
+Player 2 [4C,AS,3D,QS,QC] One pair[12]
+Player 2 wins!
+
+ Round: 807 
+Player 1 [4D,7S,5H,JH,6D] JH High
+Player 2 [7D,6H,JS,KH,3C] KH High
+Player 2 wins!
+
+ Round: 808 
+Player 1 [QD,8S,7D,2H,2C] One pair[2]
+Player 2 [7C,JC,2S,5H,8C] JC High
+Player 1 wins!
+
+ Round: 809 
+Player 1 [QH,8S,9D,TC,2H] QH High
+Player 2 [AD,7C,8D,QD,6S] AD High
+Player 2 wins!
+
+ Round: 810 
+Player 1 [3S,7C,AD,9H,2H] AD High
+Player 2 [9S,JD,TS,4C,2D] JD High
+Player 1 wins!
+
+ Round: 811 
+Player 1 [3S,AS,4H,QC,2C] AS High
+Player 2 [8H,8S,7S,TD,TC] Two pairs[8, 10]
+Player 2 wins!
+
+ Round: 812 
+Player 1 [JH,TH,TD,3S,4D] One pair[10]
+Player 2 [4H,5S,5D,QS,2C] One pair[5]
+Player 1 wins!
+
+ Round: 813 
+Player 1 [8C,QD,QH,TC,6D] One pair[12]
+Player 2 [4S,9S,9D,4H,QC] Two pairs[4, 9]
+Player 2 wins!
+
+ Round: 814 
+Player 1 [8C,JS,9D,6H,JD] One pair[11]
+Player 2 [3H,AD,6S,TD,QC] AD High
+Player 1 wins!
+
+ Round: 815 
+Player 1 [KC,8S,3D,7C,TD] KC High
+Player 2 [7D,8D,9H,4S,3S] 9H High
+Player 1 wins!
+
+ Round: 816 
+Player 1 [6C,4S,3D,9D,KD] KD High
+Player 2 [TC,KC,KS,AC,5S] One pair[13]
+Player 2 wins!
+
+ Round: 817 
+Player 1 [7C,6S,QH,3D,JS] QH High
+Player 2 [KD,6H,6D,2D,8C] One pair[6]
+Player 2 wins!
+
+ Round: 818 
+Player 1 [JD,2S,5S,4H,8S] JD High
+Player 2 [AC,2D,6S,TS,5C] AC High
+Player 2 wins!
+
+ Round: 819 
+Player 1 [5H,8C,5S,3C,4S] One pair[5]
+Player 2 [3D,7C,8D,AS,3H] One pair[3]
+Player 1 wins!
+
+ Round: 820 
+Player 1 [AS,TS,7C,3H,AD] One pair[14]
+Player 2 [7D,JC,QS,6C,6H] One pair[6]
+Player 1 wins!
+
+ Round: 821 
+Player 1 [3S,9S,4C,AC,QH] AC High
+Player 2 [5H,5D,9H,TS,4H] One pair[5]
+Player 2 wins!
+
+ Round: 822 
+Player 1 [6C,5C,7H,7S,TD] One pair[7]
+Player 2 [AD,JD,5S,2H,2S] One pair[2]
+Player 1 wins!
+
+ Round: 823 
+Player 1 [7D,6C,KC,3S,JD] KC High
+Player 2 [8D,8S,TS,QS,KH] One pair[8]
+Player 2 wins!
+
+ Round: 824 
+Player 1 [8S,QS,8D,6C,TH] One pair[8]
+Player 2 [AC,AH,2C,8H,9S] One pair[14]
+Player 2 wins!
+
+ Round: 825 
+Player 1 [7H,TD,KH,QH,8S] KH High
+Player 2 [3D,4D,AH,JD,AS] One pair[14]
+Player 2 wins!
+
+ Round: 826 
+Player 1 [TS,3D,2H,JC,2S] One pair[2]
+Player 2 [JH,KH,6C,QC,JS] One pair[11]
+Player 2 wins!
+
+ Round: 827 
+Player 1 [KC,TH,2D,6H,7S] KC High
+Player 2 [2S,TC,8C,9D,QS] QS High
+Player 1 wins!
+
+ Round: 828 
+Player 1 [3C,9D,6S,KH,8H] KH High
+Player 2 [6D,5D,TH,2C,2H] One pair[2]
+Player 2 wins!
+
+ Round: 829 
+Player 1 [6H,TC,7D,AD,4D] AD High
+Player 2 [8S,TS,9H,TD,7S] One pair[10]
+Player 2 wins!
+
+ Round: 830 
+Player 1 [JS,6D,JD,JC,2H] Three of a kind[11]
+Player 2 [AC,6C,3D,KH,8D] AC High
+Player 1 wins!
+
+ Round: 831 
+Player 1 [KH,JD,9S,5D,4H] KH High
+Player 2 [4C,3H,7S,QS,5C] QS High
+Player 1 wins!
+
+ Round: 832 
+Player 1 [4H,JD,5D,3S,3C] One pair[3]
+Player 2 [4D,KH,QH,QS,7S] One pair[12]
+Player 2 wins!
+
+ Round: 833 
+Player 1 [JD,TS,8S,QD,AH] AH High
+Player 2 [4C,6H,3S,5S,2C] Straight[#<Card:0x000000012d9ecf90 @face=2, @suit=3>, #<Card:0x000000012d9ed378 @face=3, @suit=0>, #<Card:0x000000012d9ed8a0 @face=4, @suit=3>, #<Card:0x000000012d9ed238 @face=5, @suit=0>, #<Card:0x000000012d9ed5f8 @face=6, @suit=1>]
+Player 2 wins!
+
+ Round: 834 
+Player 1 [QS,3D,JD,AS,8D] AS High
+Player 2 [TH,7C,6S,QC,KS] KS High
+Player 1 wins!
+
+ Round: 835 
+Player 1 [7S,2H,8C,QC,7H] One pair[7]
+Player 2 [AC,6D,2D,TH,KH] AC High
+Player 1 wins!
+
+ Round: 836 
+Player 1 [5S,6C,7H,KH,7D] One pair[7]
+Player 2 [AH,8C,5C,7S,3D] AH High
+Player 1 wins!
+
+ Round: 837 
+Player 1 [3C,KD,AD,7D,6C] AD High
+Player 2 [4D,KS,2D,8C,4S] One pair[4]
+Player 2 wins!
+
+ Round: 838 
+Player 1 [7C,8D,5S,2D,2S] One pair[2]
+Player 2 [AH,AD,2C,9D,TD] One pair[14]
+Player 2 wins!
+
+ Round: 839 
+Player 1 [3C,AD,4S,KS,JH] AD High
+Player 2 [7C,5C,8C,9C,TH] TH High
+Player 1 wins!
+
+ Round: 840 
+Player 1 [AS,TD,4D,7C,JD] AS High
+Player 2 [8C,QH,3C,5H,9S] QH High
+Player 1 wins!
+
+ Round: 841 
+Player 1 [3H,9C,8S,9S,6S] One pair[9]
+Player 2 [QD,KS,AH,5H,JH] AH High
+Player 1 wins!
+
+ Round: 842 
+Player 1 [QC,9C,5S,4H,2H] QC High
+Player 2 [TD,7D,AS,8C,9D] AS High
+Player 2 wins!
+
+ Round: 843 
+Player 1 [8C,2C,9D,KD,TC] KD High
+Player 2 [7S,3D,KH,QC,3C] One pair[3]
+Player 2 wins!
+
+ Round: 844 
+Player 1 [4D,AS,4C,QS,5S] One pair[4]
+Player 2 [9D,6S,JD,QH,KS] KS High
+Player 1 wins!
+
+ Round: 845 
+Player 1 [6D,AH,6C,4C,5H] One pair[6]
+Player 2 [TS,9H,7D,3D,5S] TS High
+Player 1 wins!
+
+ Round: 846 
+Player 1 [QS,JD,7C,8D,9C] QS High
+Player 2 [AC,3S,6S,6C,KH] One pair[6]
+Player 2 wins!
+
+ Round: 847 
+Player 1 [8H,JH,5D,9S,6D] JH High
+Player 2 [AS,6S,3S,QC,7H] AS High
+Player 2 wins!
+
+ Round: 848 
+Player 1 [QD,AD,5C,JH,2H] AD High
+Player 2 [AH,4H,AS,KC,2C] One pair[14]
+Player 2 wins!
+
+ Round: 849 
+Player 1 [JH,9C,2C,6H,2D] One pair[2]
+Player 2 [JS,5D,9H,KC,6D] KC High
+Player 1 wins!
+
+ Round: 850 
+Player 1 [7D,9D,KD,TH,3H] KD High
+Player 2 [AS,6S,QC,6H,AD] Two pairs[14, 6]
+Player 2 wins!
+
+ Round: 851 
+Player 1 [JD,4H,7D,KC,3H] KC High
+Player 2 [JS,3C,TH,3D,QS] One pair[3]
+Player 2 wins!
+
+ Round: 852 
+Player 1 [4C,3H,8C,QD,5H] QD High
+Player 2 [6H,AS,8H,AD,JD] One pair[14]
+Player 2 wins!
+
+ Round: 853 
+Player 1 [TH,8S,KD,5D,QC] KD High
+Player 2 [7D,JS,5S,5H,TS] One pair[5]
+Player 2 wins!
+
+ Round: 854 
+Player 1 [7D,KC,9D,QS,3H] KC High
+Player 2 [3C,6D,TS,7S,AH] AH High
+Player 2 wins!
+
+ Round: 855 
+Player 1 [7C,4H,7H,AH,QC] One pair[7]
+Player 2 [AC,4D,5D,6D,TH] AC High
+Player 1 wins!
+
+ Round: 856 
+Player 1 [3C,4H,2S,KD,8H] KD High
+Player 2 [5H,JH,TC,6C,JD] One pair[11]
+Player 2 wins!
+
+ Round: 857 
+Player 1 [4S,8C,3D,4H,JS] One pair[4]
+Player 2 [TD,7S,JH,QS,KD] KD High
+Player 1 wins!
+
+ Round: 858 
+Player 1 [7C,QC,KD,4D,7H] One pair[7]
+Player 2 [6S,AD,TD,TC,KH] One pair[10]
+Player 2 wins!
+
+ Round: 859 
+Player 1 [5H,9H,KC,3H,4D] KC High
+Player 2 [3D,AD,6S,QD,6H] One pair[6]
+Player 2 wins!
+
+ Round: 860 
+Player 1 [TH,7C,6H,TS,QH] One pair[10]
+Player 2 [5S,2C,KC,TD,6S] KC High
+Player 1 wins!
+
+ Round: 861 
+Player 1 [7C,4D,5S,JD,JH] One pair[11]
+Player 2 [7D,AC,KD,KH,4H] One pair[13]
+Player 2 wins!
+
+ Round: 862 
+Player 1 [7D,6C,8D,8H,5C] One pair[8]
+Player 2 [JH,8S,QD,TH,JD] One pair[11]
+Player 2 wins!
+
+ Round: 863 
+Player 1 [8D,7D,6C,7C,9D] One pair[7]
+Player 2 [KD,AS,5C,QH,JH] AS High
+Player 1 wins!
+
+ Round: 864 
+Player 1 [9S,2C,8C,3C,4C] 9S High
+Player 2 [KS,JH,2D,8D,4H] KS High
+Player 2 wins!
+
+ Round: 865 
+Player 1 [7S,6C,JH,KH,8H] KH High
+Player 2 [3H,9D,2D,AH,6D] AH High
+Player 2 wins!
+
+ Round: 866 
+Player 1 [4D,TC,9C,8D,7H] TC High
+Player 2 [TD,KS,TH,KD,3C] Two pairs[10, 13]
+Player 2 wins!
+
+ Round: 867 
+Player 1 [JD,9H,8D,QD,AS] AS High
+Player 2 [KD,9D,2C,2S,9C] Two pairs[9, 2]
+Player 2 wins!
+
+ Round: 868 
+Player 1 [8D,3H,5C,7H,KS] KS High
+Player 2 [5H,QH,2D,8C,9H] QH High
+Player 1 wins!
+
+ Round: 869 
+Player 1 [2D,TH,6D,QD,6C] One pair[6]
+Player 2 [KC,3H,3S,AD,4C] One pair[3]
+Player 1 wins!
+
+ Round: 870 
+Player 1 [4H,3H,JS,9D,3C] One pair[3]
+Player 2 [TC,5H,QH,QC,JC] One pair[12]
+Player 2 wins!
+
+ Round: 871 
+Player 1 [3D,5C,6H,3S,3C] Three of a kind[3]
+Player 2 [JC,5S,7S,2S,QH] QH High
+Player 1 wins!
+
+ Round: 872 
+Player 1 [AC,5C,8C,4D,5D] One pair[5]
+Player 2 [4H,2S,QD,3C,3H] One pair[3]
+Player 1 wins!
+
+ Round: 873 
+Player 1 [2C,TD,AH,9C,KD] AH High
+Player 2 [JS,6S,QD,4C,QC] One pair[12]
+Player 2 wins!
+
+ Round: 874 
+Player 1 [QS,8C,3S,4H,TC] QS High
+Player 2 [JS,3H,7C,JC,AD] One pair[11]
+Player 2 wins!
+
+ Round: 875 
+Player 1 [5H,4D,9C,KS,JC] KS High
+Player 2 [TD,9S,TS,8S,9H] Two pairs[10, 9]
+Player 2 wins!
+
+ Round: 876 
+Player 1 [QD,TS,7D,AS,AC] One pair[14]
+Player 2 [2C,TD,6H,8H,AH] AH High
+Player 1 wins!
+
+ Round: 877 
+Player 1 [6S,AD,8C,4S,9H] AD High
+Player 2 [8D,9D,KH,8S,3C] One pair[8]
+Player 2 wins!
+
+ Round: 878 
+Player 1 [QS,4D,2D,7S,KH] KH High
+Player 2 [JS,JC,AD,4C,3C] One pair[11]
+Player 2 wins!
+
+ Round: 879 
+Player 1 [QS,9S,7H,KC,TD] KC High
+Player 2 [TH,5H,JS,AC,JH] One pair[11]
+Player 2 wins!
+
+ Round: 880 
+Player 1 [6D,AC,2S,QS,7C] AC High
+Player 2 [AS,KS,6S,KH,5S] One pair[13]
+Player 2 wins!
+
+ Round: 881 
+Player 1 [6D,8H,KH,3C,QS] KH High
+Player 2 [2H,5C,9C,9D,6C] One pair[9]
+Player 2 wins!
+
+ Round: 882 
+Player 1 [JS,2C,4C,6H,7D] JS High
+Player 2 [JC,AC,QD,TD,3H] AC High
+Player 2 wins!
+
+ Round: 883 
+Player 1 [4H,QC,8H,JD,4C] One pair[4]
+Player 2 [KD,KS,5C,KC,7S] Three of a kind[13]
+Player 2 wins!
+
+ Round: 884 
+Player 1 [6D,2D,3H,2S,QD] One pair[2]
+Player 2 [5S,7H,AS,TH,6S] AS High
+Player 1 wins!
+
+ Round: 885 
+Player 1 [AS,6D,8D,2C,8S] One pair[8]
+Player 2 [TD,8H,QD,JC,AH] AH High
+Player 1 wins!
+
+ Round: 886 
+Player 1 [9C,9H,2D,TD,QH] One pair[9]
+Player 2 [2H,5C,TC,3D,8H] TC High
+Player 1 wins!
+
+ Round: 887 
+Player 1 [KC,8S,3D,KH,2S] One pair[13]
+Player 2 [TS,TC,6S,4D,JH] One pair[10]
+Player 1 wins!
+
+ Round: 888 
+Player 1 [9H,9D,QS,AC,KC] One pair[9]
+Player 2 [6H,5D,4D,8D,AH] AH High
+Player 1 wins!
+
+ Round: 889 
+Player 1 [9S,5C,QS,4H,7C] QS High
+Player 2 [7D,2H,8S,AD,JS] AD High
+Player 2 wins!
+
+ Round: 890 
+Player 1 [3D,AC,9S,AS,2C] One pair[14]
+Player 2 [2D,2H,3H,JC,KH] One pair[2]
+Player 1 wins!
+
+ Round: 891 
+Player 1 [7H,QH,KH,JD,TC] KH High
+Player 2 [KS,5S,8H,4C,8D] One pair[8]
+Player 2 wins!
+
+ Round: 892 
+Player 1 [2H,7H,3S,2S,5H] One pair[2]
+Player 2 [QS,3C,AS,9H,KD] AS High
+Player 1 wins!
+
+ Round: 893 
+Player 1 [AD,3D,JD,6H,5S] AD High
+Player 2 [9C,6D,AC,9S,3S] One pair[9]
+Player 2 wins!
+
+ Round: 894 
+Player 1 [3D,5D,9C,2D,AC] AC High
+Player 2 [4S,2S,AD,6C,6S] One pair[6]
+Player 2 wins!
+
+ Round: 895 
+Player 1 [QC,4C,2D,3H,6S] QC High
+Player 2 [KC,QH,QD,2H,JH] One pair[12]
+Player 2 wins!
+
+ Round: 896 
+Player 1 [QC,3C,8S,4D,9S] QC High
+Player 2 [2H,5C,8H,QS,QD] One pair[12]
+Player 2 wins!
+
+ Round: 897 
+Player 1 [6D,KD,6S,7H,3S] One pair[6]
+Player 2 [KH,2H,5C,JC,6C] KH High
+Player 1 wins!
+
+ Round: 898 
+Player 1 [3S,9S,TC,6S,8H] TC High
+Player 2 [2D,AD,7S,8S,TS] AD High
+Player 2 wins!
+
+ Round: 899 
+Player 1 [3C,6H,9C,3H,5C] One pair[3]
+Player 2 [JC,8H,QH,TD,QD] One pair[12]
+Player 2 wins!
+
+ Round: 900 
+Player 1 [3C,JS,QD,5D,TD] QD High
+Player 2 [2C,KH,9H,TH,AS] AS High
+Player 2 wins!
+
+ Round: 901 
+Player 1 [9S,TC,JD,3D,5C] JD High
+Player 2 [5H,AD,QH,9H,KC] AD High
+Player 2 wins!
+
+ Round: 902 
+Player 1 [TC,7H,4H,8H,3H] TC High
+Player 2 [TD,6S,AC,7C,2S] AC High
+Player 2 wins!
+
+ Round: 903 
+Player 1 [QS,9D,5D,3C,JC] QS High
+Player 2 [KS,4D,6C,JH,2S] KS High
+Player 2 wins!
+
+ Round: 904 
+Player 1 [9S,6S,3C,7H,TS] TS High
+Player 2 [4C,KD,6D,3D,9C] KD High
+Player 2 wins!
+
+ Round: 905 
+Player 1 [2D,9H,AH,AC,7H] One pair[14]
+Player 2 [2S,JH,3S,7C,QC] QC High
+Player 1 wins!
+
+ Round: 906 
+Player 1 [QD,9H,3C,2H,AC] AC High
+Player 2 [AS,8S,KD,8C,KH] Two pairs[8, 13]
+Player 2 wins!
+
+ Round: 907 
+Player 1 [2D,7S,TD,TH,6D] One pair[10]
+Player 2 [JD,8D,4D,2H,5S] JD High
+Player 1 wins!
+
+ Round: 908 
+Player 1 [8S,QH,KD,JD,QS] One pair[12]
+Player 2 [JH,4D,KC,5H,3S] KC High
+Player 1 wins!
+
+ Round: 909 
+Player 1 [3C,KH,QC,6D,8H] KH High
+Player 2 [3S,AH,7D,TD,2D] AH High
+Player 2 wins!
+
+ Round: 910 
+Player 1 [5S,9H,QH,4S,6S] QH High
+Player 2 [6C,6D,TS,TH,7S] Two pairs[6, 10]
+Player 2 wins!
+
+ Round: 911 
+Player 1 [6C,4C,6D,QS,JS] One pair[6]
+Player 2 [9C,TS,3H,8D,8S] One pair[8]
+Player 2 wins!
+
+ Round: 912 
+Player 1 [JS,5C,7S,AS,2C] AS High
+Player 2 [AH,2H,AD,5S,TC] One pair[14]
+Player 2 wins!
+
+ Round: 913 
+Player 1 [KD,6C,9C,9D,TS] One pair[9]
+Player 2 [2S,JC,4H,2C,QD] One pair[2]
+Player 1 wins!
+
+ Round: 914 
+Player 1 [QS,9H,TC,3H,KC] KC High
+Player 2 [KS,4H,3C,AD,TH] AD High
+Player 2 wins!
+
+ Round: 915 
+Player 1 [KH,9C,2H,KD,9D] Two pairs[13, 9]
+Player 2 [TC,7S,KC,JH,2D] KC High
+Player 1 wins!
+
+ Round: 916 
+Player 1 [7C,3S,KC,AS,8C] AS High
+Player 2 [5D,9C,9S,QH,3H] One pair[9]
+Player 2 wins!
+
+ Round: 917 
+Player 1 [2D,8C,TD,4C,2H] One pair[2]
+Player 2 [QC,5D,TC,2C,7D] QC High
+Player 1 wins!
+
+ Round: 918 
+Player 1 [KS,4D,6C,QH,TD] KS High
+Player 2 [KH,5D,7C,AD,8D] AD High
+Player 2 wins!
+
+ Round: 919 
+Player 1 [2S,9S,8S,4C,8C] One pair[8]
+Player 2 [3D,6H,QD,7C,7H] One pair[7]
+Player 1 wins!
+
+ Round: 920 
+Player 1 [6C,8S,QH,5H,TS] QH High
+Player 2 [5C,3C,4S,2S,2H] One pair[2]
+Player 2 wins!
+
+ Round: 921 
+Player 1 [8S,6S,2H,JC,3S] JC High
+Player 2 [3H,9D,8C,2S,7H] 9D High
+Player 1 wins!
+
+ Round: 922 
+Player 1 [QC,2C,8H,9C,AC] AC High
+Player 2 [JD,4C,4H,6S,3S] One pair[4]
+Player 2 wins!
+
+ Round: 923 
+Player 1 [3H,3S,7D,4C,9S] One pair[3]
+Player 2 [5H,8H,JC,3D,TC] JC High
+Player 1 wins!
+
+ Round: 924 
+Player 1 [QH,2S,2D,9S,KD] One pair[2]
+Player 2 [QD,9H,AD,6D,9C] One pair[9]
+Player 2 wins!
+
+ Round: 925 
+Player 1 [8D,2D,KS,9S,JC] KS High
+Player 2 [4C,JD,KC,4S,TH] One pair[4]
+Player 2 wins!
+
+ Round: 926 
+Player 1 [KH,TS,6D,4D,5C] KH High
+Player 2 [KD,5H,AS,9H,AD] One pair[14]
+Player 2 wins!
+
+ Round: 927 
+Player 1 [QD,JS,7C,6D,5D] QD High
+Player 2 [5C,TH,5H,QH,QS] Two pairs[5, 12]
+Player 2 wins!
+
+ Round: 928 
+Player 1 [9D,QH,KH,5H,JH] KH High
+Player 2 [4C,4D,TC,TH,6C] Two pairs[4, 10]
+Player 2 wins!
+
+ Round: 929 
+Player 1 [KH,AS,TS,9D,KD] One pair[13]
+Player 2 [9C,7S,4D,8H,5S] 9C High
+Player 1 wins!
+
+ Round: 930 
+Player 1 [KH,AS,2S,7D,9D] AS High
+Player 2 [4C,TS,TH,AH,7C] One pair[10]
+Player 2 wins!
+
+ Round: 931 
+Player 1 [KS,4D,AC,8S,9S] AC High
+Player 2 [8D,TH,QH,9D,5C] QH High
+Player 1 wins!
+
+ Round: 932 
+Player 1 [5D,5C,8C,QS,TC] One pair[5]
+Player 2 [4C,3D,3S,2C,8D] One pair[3]
+Player 1 wins!
+
+ Round: 933 
+Player 1 [9D,KS,2D,3C,KC] One pair[13]
+Player 2 [4S,8C,KH,6C,JC] KH High
+Player 1 wins!
+
+ Round: 934 
+Player 1 [8H,AH,6H,7D,7S] One pair[7]
+Player 2 [QD,3C,4C,6C,KC] KC High
+Player 1 wins!
+
+ Round: 935 
+Player 1 [3H,2C,QH,8H,AS] AS High
+Player 2 [7D,4C,8C,4H,KC] One pair[4]
+Player 2 wins!
+
+ Round: 936 
+Player 1 [QD,5S,4H,2C,TD] QD High
+Player 2 [AH,JH,QH,4C,8S] AH High
+Player 2 wins!
+
+ Round: 937 
+Player 1 [3H,QS,5S,JS,8H] QS High
+Player 2 [2S,9H,9C,3S,2C] Two pairs[2, 9]
+Player 2 wins!
+
+ Round: 938 
+Player 1 [6H,TS,7S,JC,QD] QD High
+Player 2 [AC,TD,KC,5S,3H] AC High
+Player 2 wins!
+
+ Round: 939 
+Player 1 [QH,AS,QS,7D,JC] One pair[12]
+Player 2 [KC,2C,4C,5C,5S] One pair[5]
+Player 1 wins!
+
+ Round: 940 
+Player 1 [QH,3D,AS,JS,4H] AS High
+Player 2 [8D,7H,JC,2S,9C] JC High
+Player 1 wins!
+
+ Round: 941 
+Player 1 [5D,4D,2S,4S,9D] One pair[4]
+Player 2 [9C,2D,QS,8H,7H] QS High
+Player 1 wins!
+
+ Round: 942 
+Player 1 [6D,7H,3H,JS,TS] JS High
+Player 2 [AC,2D,JH,7C,8S] AC High
+Player 2 wins!
+
+ Round: 943 
+Player 1 [JH,5H,KC,3C,TC] KC High
+Player 2 [5S,9H,4C,8H,9D] One pair[9]
+Player 2 wins!
+
+ Round: 944 
+Player 1 [8S,KC,5H,9H,AD] AD High
+Player 2 [KS,9D,KH,8D,AH] One pair[13]
+Player 2 wins!
+
+ Round: 945 
+Player 1 [JC,2H,9H,KS,6S] KS High
+Player 2 [3H,QC,5H,AH,9C] AH High
+Player 2 wins!
+
+ Round: 946 
+Player 1 [5C,KH,5S,AD,6C] One pair[5]
+Player 2 [JC,9H,QC,9C,TD] One pair[9]
+Player 2 wins!
+
+ Round: 947 
+Player 1 [5S,5D,JC,QH,2D] One pair[5]
+Player 2 [KS,8H,QS,2H,TS] KS High
+Player 1 wins!
+
+ Round: 948 
+Player 1 [JH,5H,5S,AH,7H] One pair[5]
+Player 2 [3C,8S,AS,TD,KH] AS High
+Player 1 wins!
+
+ Round: 949 
+Player 1 [6H,3D,JD,2C,4C] JD High
+Player 2 [KC,7S,AH,6C,JH] AH High
+Player 2 wins!
+
+ Round: 950 
+Player 1 [4C,KS,9D,AD,7S] AD High
+Player 2 [KC,7D,8H,3S,9C] KC High
+Player 1 wins!
+
+ Round: 951 
+Player 1 [7H,5C,5H,3C,8H] One pair[5]
+Player 2 [QC,3D,KH,6D,JC] KH High
+Player 1 wins!
+
+ Round: 952 
+Player 1 [2D,4H,5D,7D,QC] QC High
+Player 2 [AD,AH,9H,QH,8H] One pair[14]
+Player 2 wins!
+
+ Round: 953 
+Player 1 [KD,8C,JS,9D,3S] KD High
+Player 2 [3C,2H,5D,6D,2S] One pair[2]
+Player 2 wins!
+
+ Round: 954 
+Player 1 [8S,6S,TS,3C,6H] One pair[6]
+Player 2 [8D,5S,3H,TD,6C] TD High
+Player 1 wins!
+
+ Round: 955 
+Player 1 [KS,3D,JH,9C,7C] KS High
+Player 2 [9S,QS,5S,4H,6H] QS High
+Player 1 wins!
+
+ Round: 956 
+Player 1 [7S,6S,TH,4S,KC] KC High
+Player 2 [KD,3S,JC,JH,KS] Two pairs[13, 11]
+Player 2 wins!
+
+ Round: 957 
+Player 1 [7C,3C,2S,6D,QH] QH High
+Player 2 [2C,7S,5H,8H,AH] AH High
+Player 2 wins!
+
+ Round: 958 
+Player 1 [KC,8D,QD,6D,KH] One pair[13]
+Player 2 [5C,7H,9D,3D,9C] One pair[9]
+Player 1 wins!
+
+ Round: 959 
+Player 1 [6H,2D,8S,JS,9S] JS High
+Player 2 [2S,6D,KC,7C,TC] KC High
+Player 2 wins!
+
+ Round: 960 
+Player 1 [KD,9C,JH,7H,KC] One pair[13]
+Player 2 [8S,2S,7S,3D,6H] 8S High
+Player 1 wins!
+
+ Round: 961 
+Player 1 [4H,9H,2D,4C,8H] One pair[4]
+Player 2 [7H,5S,8S,2H,8D] One pair[8]
+Player 2 wins!
+
+ Round: 962 
+Player 1 [AD,7C,3C,7S,5S] One pair[7]
+Player 2 [4D,9H,3D,JC,KH] KH High
+Player 1 wins!
+
+ Round: 963 
+Player 1 [5D,AS,7D,6D,9C] AS High
+Player 2 [JC,4C,QH,QS,KH] One pair[12]
+Player 2 wins!
+
+ Round: 964 
+Player 1 [KD,JD,7D,3D,QS] KD High
+Player 2 [QC,8S,6D,JS,QD] One pair[12]
+Player 2 wins!
+
+ Round: 965 
+Player 1 [6S,8C,5S,QH,TH] QH High
+Player 2 [9H,AS,AC,2C,JD] One pair[14]
+Player 2 wins!
+
+ Round: 966 
+Player 1 [QC,KS,QH,7S,3C] One pair[12]
+Player 2 [4C,5C,KC,5D,AH] One pair[5]
+Player 1 wins!
+
+ Round: 967 
+Player 1 [6C,4H,9D,AH,2C] AH High
+Player 2 [3H,KD,3D,TS,5C] One pair[3]
+Player 2 wins!
+
+ Round: 968 
+Player 1 [TD,8S,QS,AS,JS] AS High
+Player 2 [3H,KD,AC,4H,KS] One pair[13]
+Player 2 wins!
+
+ Round: 969 
+Player 1 [7D,5D,TS,9H,4H] TS High
+Player 2 [4C,9C,2H,8C,QC] QC High
+Player 2 wins!
+
+ Round: 970 
+Player 1 [2C,7D,9H,4D,KS] KS High
+Player 2 [4C,QH,AD,KD,JS] AD High
+Player 2 wins!
+
+ Round: 971 
+Player 1 [QD,AD,AH,KH,9D] One pair[14]
+Player 2 [JS,9H,JC,KD,JD] Three of a kind[11]
+Player 2 wins!
+
+ Round: 972 
+Player 1 [8S,3C,4S,TS,7S] TS High
+Player 2 [4D,5C,2S,6H,7C] 7C High
+Player 1 wins!
+
+ Round: 973 
+Player 1 [JS,7S,5C,KD,6D] KD High
+Player 2 [QH,8S,TD,2H,6S] QH High
+Player 1 wins!
+
+ Round: 974 
+Player 1 [QH,6C,TC,6H,TD] Two pairs[6, 10]
+Player 2 [4C,9D,2H,QC,8H] QC High
+Player 1 wins!
+
+ Round: 975 
+Player 1 [3D,TS,4D,2H,6H] TS High
+Player 2 [6S,2C,7H,8S,6C] One pair[6]
+Player 2 wins!
+
+ Round: 976 
+Player 1 [9H,9D,JD,JH,3S] Two pairs[9, 11]
+Player 2 [AH,2C,6S,3H,8S] AH High
+Player 1 wins!
+
+ Round: 977 
+Player 1 [2C,QS,8C,5S,3H] QS High
+Player 2 [2S,7D,3C,AD,4S] AD High
+Player 2 wins!
+
+ Round: 978 
+Player 1 [5C,QC,QH,AS,TS] One pair[12]
+Player 2 [4S,6S,4C,5H,JS] One pair[4]
+Player 1 wins!
+
+ Round: 979 
+Player 1 [JH,5C,TD,4C,6H] JH High
+Player 2 [JS,KD,KH,QS,4H] One pair[13]
+Player 2 wins!
+
+ Round: 980 
+Player 1 [TC,KH,JC,4D,9H] KH High
+Player 2 [9D,8D,KC,3C,8H] One pair[8]
+Player 2 wins!
+
+ Round: 981 
+Player 1 [2H,TC,8S,AD,9S] AD High
+Player 2 [4H,TS,7H,2C,5C] TS High
+Player 1 wins!
+
+ Round: 982 
+Player 1 [4H,2S,6C,5S,KS] KS High
+Player 2 [AH,9C,7C,8H,KD] AH High
+Player 2 wins!
+
+ Round: 983 
+Player 1 [TS,QH,TD,QS,3C] Two pairs[10, 12]
+Player 2 [JH,AH,2C,8D,7D] AH High
+Player 1 wins!
+
+ Round: 984 
+Player 1 [5D,KC,3H,5S,AC] One pair[5]
+Player 2 [4S,7H,QS,4C,2H] One pair[4]
+Player 1 wins!
+
+ Round: 985 
+Player 1 [3D,7D,QC,KH,JH] KH High
+Player 2 [6D,6C,TD,TH,KD] Two pairs[6, 10]
+Player 2 wins!
+
+ Round: 986 
+Player 1 [5S,8D,TH,6C,9D] TH High
+Player 2 [7D,KH,8C,9S,6D] KH High
+Player 2 wins!
+
+ Round: 987 
+Player 1 [JD,QS,7S,QC,2S] One pair[12]
+Player 2 [QH,JC,4S,KS,8D] KS High
+Player 1 wins!
+
+ Round: 988 
+Player 1 [7S,5S,9S,JD,KD] KD High
+Player 2 [9C,JC,AD,2D,7C] AD High
+Player 2 wins!
+
+ Round: 989 
+Player 1 [4S,5H,AH,JH,9C] AH High
+Player 2 [5D,TD,7C,2D,6S] TD High
+Player 1 wins!
+
+ Round: 990 
+Player 1 [KC,6C,7H,6S,9C] One pair[6]
+Player 2 [QD,5S,4H,KS,TD] KS High
+Player 1 wins!
+
+ Round: 991 
+Player 1 [6S,8D,KS,2D,TH] KS High
+Player 2 [TD,9H,JD,TS,3S] One pair[10]
+Player 2 wins!
+
+ Round: 992 
+Player 1 [KH,JS,4H,5D,9D] KH High
+Player 2 [TC,TD,QC,JD,TS] Three of a kind[10]
+Player 2 wins!
+
+ Round: 993 
+Player 1 [QS,QD,AC,AD,4C] Two pairs[12, 14]
+Player 2 [6S,2D,AS,3H,KC] AS High
+Player 1 wins!
+
+ Round: 994 
+Player 1 [4C,7C,3C,TD,QS] QS High
+Player 2 [9C,KC,AS,8D,AD] One pair[14]
+Player 2 wins!
+
+ Round: 995 
+Player 1 [KC,7H,QC,6D,8H] KC High
+Player 2 [6S,5S,AH,7S,8C] AH High
+Player 2 wins!
+
+ Round: 996 
+Player 1 [3S,AD,9H,JC,6D] AD High
+Player 2 [JD,AS,KH,6S,JH] One pair[11]
+Player 2 wins!
+
+ Round: 997 
+Player 1 [AD,3D,TS,KS,7H] AD High
+Player 2 [JH,2D,JS,QD,AC] One pair[11]
+Player 2 wins!
+
+ Round: 998 
+Player 1 [9C,JD,7C,6D,TC] JD High
+Player 2 [6H,6C,JC,3D,3S] Two pairs[6, 3]
+Player 2 wins!
+
+ Round: 999 
+Player 1 [QC,KC,3S,JC,KD] One pair[13]
+Player 2 [2C,8D,AH,QS,TS] AH High
+Player 1 wins!
+
+ Round: 1000 
+Player 1 [AS,KD,3D,JD,8H] AS High
+Player 2 [7C,8C,5C,QD,6C] QD High
+Player 1 wins!
+
+Final Score: Player 1: 377  Player 2: 623
