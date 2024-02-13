@@ -1,0 +1,26 @@
+AllCops:
+  TargetRubyVersion: 2.7
+  NewCops: disable
+
+Style/StringLiterals:
+  Enabled: true
+  EnforcedStyle: double_quotes
+
+Style/StringLiteralsInInterpolation:
+  Enabled: true
+  EnforcedStyle: double_quotes
+
+Layout/LineLength:
+  Max: 120
+
+RSpec/MultipleExpectations:
+  Max: 3
+
+RSpec/MultipleMemoizedHelpers:
+  AllowSubject: false
+  Max: 30
+
+require: 
+  - rubocop-rspec
+  - rubocop-rake
+
